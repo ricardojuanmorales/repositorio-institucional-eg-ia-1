@@ -1,0 +1,165 @@
+# Estructura completa de cartapacios v0.3
+
+**Proyecto:** Proyecto_RIB_EG_IA  
+**Versión:** v0.3  
+**Fecha:** 2026-05-07  
+**Estado:** Borrador operativo inicial
+
+---
+
+```text
+Proyecto_RIB_EG_IA/
+├── 00_CONTROL_MAESTRO/
+        ├── 00_Bitacoras/
+        ├── 01_Decisiones/
+        ├── 02_Changelog/
+        ├── 03_Releases/
+        ├── 04_Primers_Continuidad/
+        ├── 05_Gates_CHECKS/
+        └── 06_RACI/
+├── 01_FUNDAMENTO_FILOSOFICO/
+        ├── 00_Contexto_Historico/
+        ├── 01_Pensamiento_Complejo/
+        ├── 02_Transdisciplinariedad/
+        ├── 03_Estudios_Generales/
+        └── 04_IA_Etica_Sociedad/
+├── 02_ARQUITECTURA_CONCEPTUAL/
+        ├── 00_Mapas_Conceptuales/
+        ├── 01_Modelo_Epistemologico/
+        ├── 02_Capas_Analisis/
+        ├── 03_Unidades_Subunidades/
+        └── 04_Relaciones_Sistemicas/
+├── 03_METODOLOGIA_Y_FLUJO_DE_TRABAJO/
+        ├── 00_Protocolos/
+        ├── 01_L1_Censo_Documental_Ampliado/
+        ├── 02_L1B_Taxonomia_Sistemica/
+        ├── 03_L1C_Matriz_Maestra/
+        ├── 04_L1D_RACI_Minimo/
+        ├── 05_L1E_Gates_Operacionales/
+        └── 06_L1F_Pilotos_Derivados/
+├── 04_GOBERNANZA_ETICA_Y_RIESGOS/
+        ├── 00_Gobernanza/
+        ├── 01_Uso_IA/
+        ├── 02_Riesgos/
+        ├── 03_Etica_Derechos/
+        ├── 04_Privacidad_Datos/
+        └── 05_Licencias_Autorias/
+├── 05_COMPETENCIAS_Y_PERFILES/
+        ├── 00_Perfiles_Framework/
+        ├── 01_Programador_Humanista/
+        ├── 02_Investigador_Transdisciplinario/
+        ├── 03_Artista_Transdisciplinario/
+        ├── 04_Caleidoscopio/
+        └── 05_Competencias_IA/
+├── 06_PASTILLAS_MODULARES/
+        ├── 00_Componentes_Reutilizables/
+        ├── 01_Prompts/
+        ├── 02_Checklists/
+        ├── 03_Rubricas/
+        └── 04_Guias_Breves/
+├── 07_PLANTILLAS_Y_MODELOS/
+        ├── 00_Front_Matter/
+        ├── 01_Bibliografia_Anotada/
+        ├── 02_Fichas/
+        ├── 03_Colecciones/
+        ├── 04_Matriz_Maestra/
+        ├── 05_WordPress/
+        └── 06_DIU_DUA/
+├── 08_CURSOS_PROGRAMAS_Y_TRAYECTORIAS/
+        ├── 00_Curso_IA_en_Accion/
+        ├── 01_Unidad_1/
+        ├── 02_Unidad_2/
+        ├── 03_Unidad_3/
+        ├── 04_Unidad_4/
+        ├── 05_Unidad_5/
+        └── 06_Trayectorias_Formativas/
+├── 09_IA_AGENTES_Y_COPILOTOS/
+        ├── 00_Politica_Uso_IA/
+        ├── 01_Prompts_Maestros/
+        ├── 02_Copilotos/
+        ├── 03_Evaluacion_Salidas_IA/
+        └── 04_Registro_Uso_IA/
+├── 10_REPOSITORIOS_Y_FLUJO_TECNICO/
+        ├── 00_Local/
+        ├── 01_GitHub/
+        ├── 02_Obsidian/
+        ├── 03_Backups/
+        ├── 04_Convenciones_Archivos/
+        └── 05_Scripts/
+├── 11_MULTIMODALIDAD_Y_PUBLICACION/
+        ├── 00_Publicacion_Academica/
+        ├── 01_WordPress/
+        ├── 02_Imagenes_Diagramas/
+        ├── 03_Presentaciones/
+        └── 04_Divulgacion_Publica/
+├── 12_DISENO_INSTRUCCIONAL_UNIVERSAL/
+        ├── 00_DUA_DIU/
+        ├── 01_Checklists/
+        ├── 02_Adaptaciones/
+        ├── 03_Accesibilidad/
+        └── 04_Recursos_Didacticos/
+├── 13_INVESTIGACION_Y_EVIDENCIA/
+        ├── 00_Bibliografia_Generalizada/
+        ├── 01_Bibliografia_Anotada_BA/
+        ├── 02_Matriz_Maestra_Fuentes/
+        ├── 03_Verificacion_Fuentes/
+        ├── 04_Bibliografias_Tematicas/
+        └── 05_Evidence_Ledger/
+├── 14_COMUNIDAD_TRANSFERENCIA_Y_ESCALAMIENTO/
+        ├── 00_Colaboradores/
+        ├── 01_Red_Investigadores/
+        ├── 02_Guias_Transferencia/
+        ├── 03_Onboarding/
+        └── 04_Retroalimentacion/
+├── 15_EVALUACION_CALIDAD_Y_AUDITORIA/
+        ├── 00_Criterios_Calidad/
+        ├── 01_Evaluacion_L1/
+        ├── 02_Evaluacion_L2/
+        ├── 03_Evaluacion_L3/
+        ├── 04_Auditoria/
+        └── 05_Dashboard/
+├── 16_SEGURIDAD_PRIVACIDAD_Y_DATOS/
+        ├── 00_Datos_Sensibles/
+        ├── 01_Privacidad/
+        ├── 02_Permisos/
+        ├── 03_Politicas_Datos/
+        └── 04_Riesgos_Datos/
+├── 17_INTERNACIONALIZACION_LOCALIZACION/
+        ├── 00_Espanol/
+        ├── 01_Ingles/
+        ├── 02_Contexto_Puerto_Rico_Caribe/
+        ├── 03_Contexto_Latinoamerica/
+        └── 04_Traducciones/
+├── 18_DOCUMENTACION_ACTIVA/
+        ├── 00_Estado_Situacion/
+        ├── 01_Notas_Sesion/
+        ├── 02_Minutas/
+        ├── 03_Borradores/
+        └── 04_Documentos_Trabajo/
+├── 19_IMPLEMENTACION_Y_DESPLIEGUE/
+        ├── 00_Plan_Implementacion/
+        ├── 01_L1/
+        ├── 02_L2/
+        ├── 03_L3/
+        ├── 04_Pre_N4/
+        └── 05_Despliegue_WordPress/
+├── 20_MANTENIMIENTO_Y_EVOLUCION/
+        ├── 00_Mantenimiento/
+        ├── 01_Calendario_Revision/
+        ├── 02_Deuda_Documental/
+        ├── 03_Actualizaciones_Fuentes/
+        └── 04_Roadmap/
+├── 21_WIKI_DOCUMENTACION_HUMANA/
+        ├── 00_Home/
+        ├── 01_Guia_Rapida/
+        ├── 02_Manual_Usuario/
+        ├── 03_Manual_Colaboradores/
+        ├── 04_FAQ/
+        └── 05_Mapas_Navegacion/
+└── 99_ARCHIVO_HISTORICO/
+        ├── 00_v0_1/
+        ├── 01_v0_2/
+        ├── 02_Reemplazados/
+        ├── 03_Obsoletos/
+        └── 04_Exportaciones/
+```
