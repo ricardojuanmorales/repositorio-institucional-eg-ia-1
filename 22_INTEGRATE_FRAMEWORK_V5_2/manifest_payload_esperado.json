@@ -1,0 +1,80 @@
+{
+  "schema": "rib-egia-staging-manifest-v1",
+  "date": "2026-10-15",
+  "github_source": {
+    "repo": "ricardojuanmorales/repositorio-institucional-eg-ia-1",
+    "branch": "main",
+    "sha": "5cba645d6a462801e40eb09b35108482aca58ed4",
+    "backup_branch": "backup/pre-integrate-v0.3-20261015"
+  },
+  "framework_version": "5.2.0",
+  "mode": "INTEGRATE",
+  "preservation": "preserve_source",
+  "profiles": [
+    "IT",
+    "PH",
+    "AT"
+  ],
+  "projectLevel": "N3",
+  "autonomyLevel": "N4",
+  "payload_status": "expected_not_yet_uploaded",
+  "artifacts": [
+    {
+      "path": "nativo/project-package.json",
+      "size": 14168,
+      "sha256": "b75b9aa1222740778a92554517a025780225656c0e6e8dbd6961d29080af687e"
+    },
+    {
+      "path": "nativo/portable-nativo-v5.2.0-G2.zip",
+      "size": 9817,
+      "sha256": "fb845a57bc1b325b57dfd37dafc93214b2f85aa81c36b3dcdc4f98affb7de4e0"
+    },
+    {
+      "path": "extensiones/cat_fic_mat_crosswalk.json",
+      "size": 94104,
+      "sha256": "acb9ef80a18f7c2560279ad424c1ee5051bb2bed7e3d20c2dfb86c5e3132dc99"
+    },
+    {
+      "path": "extensiones/cur_asignaciones.json",
+      "size": 130405,
+      "sha256": "d17ff295eb10a2926ee29ffc2fb0f5f035cdeba5a8abc4f66b9c32860ed295d6"
+    },
+    {
+      "path": "extensiones/perfiles_madurez_N3_autonomia_N4_G2R2.json",
+      "size": 5799,
+      "sha256": "76765a6cd428ba07accdf657c90e5c552dadf46760c3145a2740d15c5bfa79a0"
+    },
+    {
+      "path": "extensiones/politica_identidad_gates.json",
+      "size": 2083,
+      "sha256": "9750aae4ad809319e5af78f1eb6208b9ade45bb3defcbd6983e8ad3c0089cb53"
+    },
+    {
+      "path": "fuentes_originales/Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+      "size": 118930,
+      "sha256": "7cc072c2ec346a973e9bf901bf6318f1353a081df662f9ebf5b23d151a774796"
+    },
+    {
+      "path": "fuentes_originales/Repositorio_Institucional_Bibliografia_Anotada_v1_1.docx",
+      "size": 745852,
+      "sha256": "af1448e59b962e079ffa60b756fe4c2cd2e21320df80fb0223f786876136de00"
+    },
+    {
+      "path": "fuentes_originales/Matrices_Repositorio_Institucional_Bibliografia_Anotada_v1_1.docx",
+      "size": 39757,
+      "sha256": "34c2bd806d156d60b361951b3e0bb6a3c20a456d1925ecd9cf82a1ca03a4acb2"
+    }
+  ],
+  "constraints": [
+    "Do not modify existing files",
+    "Do not merge CAT and FIC by matching BA ID",
+    "No write on main",
+    "No PR",
+    "No publication",
+    "Native schema unchanged"
+  ],
+  "validation": {
+    "mac_summary": "PASS 8 / preserved true",
+    "full_report": "awaiting original report"
+  }
+}
