@@ -17,7 +17,7 @@
   ],
   "projectLevel": "N3",
   "autonomyLevel": "N4",
-  "payload_status": "expected_not_yet_uploaded",
+  "payload_status": "uploaded_and_verified_git_blob_sha1_2026-10-15",
   "artifacts": [
     {
       "path": "nativo/project-package.json",
@@ -74,7 +74,17 @@
     "Native schema unchanged"
   ],
   "validation": {
-    "mac_summary": "PASS 8 / preserved true",
-    "full_report": "awaiting original report"
+    "mac_summary": "PASS 8 / preserved true (user-supplied terminal output)",
+    "full_report": "pending original resultado_pruebas_nativas.json",
+    "remote_payload": {
+      "files": 9,
+      "size_and_git_blob_sha1": "all 9 match known local artifacts",
+      "sha256": "local artifact SHA256 matched manifest; remote content identity established by matching Git blob SHA1",
+      "historical_files_preserved": 189,
+      "modified_historical_files": 0,
+      "deleted_historical_files": 0,
+      "stage_sha_before_documentation": "a3914b87dc4d7975da1373273eb4c15e25620386",
+      "backup_sha": "5cba645d6a462801e40eb09b35108482aca58ed4"
+    }
   }
 }
