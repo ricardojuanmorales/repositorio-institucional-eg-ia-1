@@ -74,8 +74,8 @@
     "Native schema unchanged"
   ],
   "validation": {
-    "mac_summary": "PASS 8 / preserved true (user-supplied terminal output)",
-    "full_report": "pending original resultado_pruebas_nativas.json",
+    "mac_summary": "PASS 8/8 etapas, Vitest 41/41 pruebas en 9 archivos; informe original revisado 2026-10-15",
+    "full_report": "original recibido y revisado; se conserva fuera de GitHub por contener rutas locales",
     "remote_payload": {
       "files": 9,
       "size_and_git_blob_sha1": "all 9 match known local artifacts",
@@ -85,6 +85,21 @@
       "deleted_historical_files": 0,
       "stage_sha_before_documentation": "a3914b87dc4d7975da1373273eb4c15e25620386",
       "backup_sha": "5cba645d6a462801e40eb09b35108482aca58ed4"
-    }
+    },
+    "report_sha256": "dc8bd87c6a9aa942e8e720ee028ef16f8aa627c3840708ff2cad94e20e83f8e4",
+    "native_test_details": {
+      "npm_ci": "PASS",
+      "typecheck": "PASS",
+      "build": "PASS",
+      "vitest": "PASS 41/41, 9/9 suites, 8 pruebas específicas RIB-EGIA",
+      "architecture_audit": "PASS",
+      "secrets_audit": "PASS",
+      "privacy_audit": "PASS",
+      "accessibility_audit": "PASS",
+      "inputs_unchanged": true,
+      "remote_writes": false,
+      "integrate_migration_executed": false
+    },
+    "final_scope": "G3 functional candidate PASS; staging preservation PASS; main merge requires separate human approval. No GitHub rollback execution or migrated application deployment claimed."
   }
 }
