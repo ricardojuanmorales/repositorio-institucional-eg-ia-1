@@ -1,0 +1,59 @@
+{
+  "formato": "RIB-EGIA-G2-EXT-1.0",
+  "fecha_documental": "2026-10-15",
+  "estado": "candidato_local_sin_promocion_canonica",
+  "git_baseline_sha": "5cba645d6a462801e40eb09b35108482aca58ed4",
+  "framework_zip_sha256": "f2e16b48f64a6d84edf7918a4b80584d1f616f610fdb4c05ad5cc3dcb87bae53",
+  "identificadores": {
+    "CAT": "entrada de catálogo",
+    "FIC": "ficha anotada como documento propio",
+    "MAT": "fila de matriz teórica",
+    "CUR": "asignación curricular, no obra distinta"
+  },
+  "totales": {
+    "CAT": 60,
+    "FIC": 60,
+    "MAT": 60,
+    "CUR": 150
+  },
+  "distribucion_estados_cat": {
+    "equivalencia_documental_fuerte": 19,
+    "equivalencia_probable": 6,
+    "sin_correspondencia_concluyente": 31,
+    "multiples_variantes_o_duplicacion": 4
+  },
+  "distribucion_estados_cur": {
+    "sin_coincidencia_en_corpus_ba": 104,
+    "con_candidatos_fuertes": 42,
+    "con_candidatos_probables": 4
+  },
+  "reglas": [
+    "No corregir ni cambiar códigos originales.",
+    "No fusionar ni reasignar identidad de obra mediante candidatos algorítmicos.",
+    "Mantener múltiples coincidencias como enlaces propuestos.",
+    "La verificación de referencia, edición y derechos no se deduce del esquema JSON.",
+    "La publicación y la transferencia al Framework exigen aprobación humana independiente."
+  ],
+  "candidatos_vinculacion": "solo_candidatos_sin_fusion",
+  "gates": {
+    "F0B": "GO_CONDICIONADO_RATIFICADO",
+    "G1": "GO_CONDICIONADO_RATIFICADO",
+    "G2": "CANDIDATO_LOCAL_VALIDACION_ESTATICA",
+    "G3": "NO_AUTORIZADO",
+    "G4": "NO_AUTORIZADO"
+  },
+  "decisiones_pendientes": [
+    {
+      "id": "PERFIL",
+      "objeto": "activeProfiles=[IT], latentProfiles=[PH,AT] son selección técnica provisional sin ratificación explícita."
+    },
+    {
+      "id": "NIVELES",
+      "objeto": "projectLevel=N1, autonomyLevel=N1 son mínimos provisionales de esquema; no equivalen a evaluación institucional."
+    },
+    {
+      "id": "G3",
+      "objeto": "Autorizar o rechazar staging y escritura remota luego de revisar pruebas y respaldos."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "documento": "G2-R2: tres lentes activos, proyecto N3 y autonomía N4 (declaración humana)",
+  "fecha": "2026-10-15",
+  "registrado_en_utc": "2026-10-15T15:52:18Z",
+  "framework_version": "5.2.0",
+  "contrato_nativo_schema": "0.1.0",
+  "decision_humana": {
+    "lentes_activos": [
+      "IT",
+      "PH",
+      "AT"
+    ],
+    "lentes_latentes": [],
+    "nivel_proyecto": "N3",
+    "nombre_nivel": "Integración avanzada",
+    "nivel_autonomia": "N4",
+    "nivel_productos": "NO_DECIDIDO",
+    "nombre_nivel_autonomia": "Ecosistema gobernado"
+  },
+  "proyeccion_nativa": {
+    "activeProfiles": [
+      "IT",
+      "PH",
+      "AT"
+    ],
+    "latentProfiles": [],
+    "projectLevel": "N3",
+    "autonomyLevel": "N4",
+    "autonomyLevel_aclaracion": "Valor solicitado por autoridad humana; no representa autonomía N4 validada empíricamente."
+  },
+  "separacion_de_niveles": "Proyecto N3 y autonomía N4 son ejes independientes; N4 exige gobernanza, continuidad, recuperación y transferencia, no más automatización. Los productos se evalúan por separado.",
+  "lentes": {
+    "IT": {
+      "enfoque": "Investigador Transdisciplinario",
+      "responsabilidades_candidatas": [
+        "identidad CAT/FIC/MAT/CUR",
+        "verificación bibliográfica y evidencia",
+        "reconciliación y trazabilidad"
+      ]
+    },
+    "PH": {
+      "enfoque": "Programador Humanista",
+      "responsabilidades_candidatas": [
+        "esquemas y validación reproducible",
+        "interoperabilidad nativa y extensiones",
+        "preservación y diseño reversible"
+      ]
+    },
+    "AT": {
+      "enfoque": "Artista Transdisciplinario",
+      "responsabilidades_candidatas": [
+        "representación multimodal",
+        "diseño de experiencia e inclusión DIU/DUA",
+        "mediación creativa y comunicación"
+      ]
+    }
+  },
+  "evidencias_n3": [
+    {
+      "dimension": "integracion_de_capacidades",
+      "status": "parcial",
+      "evidencia": "12 decisiones humanas, G1 y 3 perfiles activos; diseño CAT/FIC/MAT/CUR y extensiones",
+      "pendiente": "evidenciar cooperación operativa PH/IT/AT en pruebas y entregables reales"
+    },
+    {
+      "dimension": "evidencia_reproducible",
+      "status": "parcial",
+      "evidencia": "contratos JSON, manifiesto SHA-256, 29 validaciones estáticas previas",
+      "pendiente": "tests TypeScript nativos, roundtrip real, integridad de enlaces y muestra bibliográfica verificada"
+    },
+    {
+      "dimension": "trazabilidad",
+      "status": "documentada_con_conflictos",
+      "evidencia": "identificadores CAT/FIC/MAT/CUR diferenciados, procedencia por archivo, aliases y cuarentenas G1",
+      "pendiente": "resolver o aceptar explícitamente los conflictos críticos por obra antes de consolidar"
+    },
+    {
+      "dimension": "riesgo_gobernado",
+      "status": "en_control_documental",
+      "evidencia": "gates G0/G1, límites de autoridad y preservación de originales",
+      "pendiente": "simular restauración, preparar protección de main y política RACI ejecutable"
+    },
+    {
+      "dimension": "continuidad",
+      "status": "documentada_no_probada",
+      "evidencia": "actas, bitácoras, runbooks, contrato G2 v5.2 y hashes",
+      "pendiente": "demostrar continuidad operacional y rollback en entorno aislado autorizado"
+    }
+  ],
+  "calificación_actual": "Proyecto N3 y autonomía N4 declarados por persona usuaria; sin acreditación operacional N3/N4, sin G3 ni ejecución.",
+  "caleidoscopio": {
+    "status": "no_inferido",
+    "eventos": 0,
+    "nota": "Tres lentes activos no son por sí solos un evento emergente validado."
+  },
+  "gates": {
+    "G1": "GO_CONDICIONADO_RATIFICADO",
+    "G2": "G2-R2_CANDIDATO_VALIDACION_ESTATICA_PENDIENTE_GATE_HUMANO",
+    "G3": "NO_AUTORIZADO",
+    "INTEGRATE": "NO_EJECUTADO"
+  },
+  "autorizaciones": {
+    "git_write": false,
+    "staging": false,
+    "integrate_execution": false,
+    "publicacion": false,
+    "transferencia": false
+  },
+  "evidencias_n4_autonomia": [
+    {
+      "dimension": "ecosistema_sostenible",
+      "estado": "por_demostrar",
+      "evidencia_actual": "estructura documental y separación de responsabilidades propuestas",
+      "pendiente": "comprobar operaciones sostenibles y mantenimiento real"
+    },
+    {
+      "dimension": "gobernanza_explicita",
+      "estado": "parcial_documental",
+      "evidencia_actual": "12 decisiones de alineación, gates F0-B/G1, y decisiones humanas G2",
+      "pendiente": "formalizar RACI ejecutable, roles, límites, procedimientos de respuesta"
+    },
+    {
+      "dimension": "evolucion",
+      "estado": "por_demostrar",
+      "evidencia_actual": "versionado de candidatos G2, G2-R1 y G2-R2",
+      "pendiente": "pruebas de cambios controlados, reapertura y trazabilidad de mejoras"
+    },
+    {
+      "dimension": "recuperacion",
+      "estado": "no_probado",
+      "evidencia_actual": "inventarios SHA-256 y propuesta de rollback",
+      "pendiente": "ensayo documentado de restauración y garantía de integridad"
+    },
+    {
+      "dimension": "multiples_responsabilidades",
+      "estado": "parcial_documental",
+      "evidencia_actual": "IT, PH y AT activos sin jerarquía por diseño",
+      "pendiente": "validar coordinación y decisiones con responsables humanos definidos"
+    },
+    {
+      "dimension": "transferencia_y_reapertura",
+      "estado": "disenado_no_validado",
+      "evidencia_actual": "transferencias simétricas propuestas y reglas de aprobación humana",
+      "pendiente": "ensayo gobernado y reversible de transferencias, sin canonización automática"
+    }
+  ],
+  "criterios_validacion": "N4 solo podrá tratarse como acreditado cuando las evidencias y gates apropiados estén comprobados; N4 no implica mayor autonomía de IA frente a supervisión humana."
+}

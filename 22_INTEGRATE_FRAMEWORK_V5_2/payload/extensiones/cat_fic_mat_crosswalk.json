@@ -1,0 +1,1982 @@
+{
+  "metadata": {
+    "origen": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+    "hashes": [
+      {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "sha256": "af1448e59b962e079ffa60b756fe4c2cd2e21320df80fb0223f786876136de00",
+        "bytes": 745852
+      },
+      {
+        "archivo": "Matrices_Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "sha256": "34c2bd806d156d60b361951b3e0bb6a3c20a456d1925ecd9cf82a1ca03a4acb2",
+        "bytes": 39757
+      },
+      {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "sha256": "7cc072c2ec346a973e9bf901bf6318f1353a081df662f9ebf5b23d151a774796",
+        "bytes": 118930
+      }
+    ],
+    "sin_fusion": true
+  },
+  "filas": [
+    {
+      "catalogo_id": "CAT-BA-001",
+      "codigo_historico": "BA-001",
+      "referencia_catalogo": "Nicolescu, B. (1996). La transdisciplinariedad: Manifiesto. Éditions du Rocher.",
+      "titulo_catalogo": "La transdisciplinariedad: Manifiesto",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 294,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-001",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Nicolescu",
+        "anio": "1996",
+        "conceptos": "transdisciplinariedad, niveles de realidad, tercero incluido",
+        "uso_metodologico": "fundamento epistemológico",
+        "tabla": 3,
+        "fila": 2
+      },
+      "ficha_mismo_codigo": "FIC-BA-001",
+      "referencia_ficha_mismo_codigo": "Nicolescu, B. (1996). La transdisciplinariedad: Manifiesto. Éditions du Rocher.",
+      "codigo_y_ficha_compatibles": "concordancia_en_mismo_codigo",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-001",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "La transdisciplinariedad: Manifiesto"
+        }
+      ],
+      "requiere_resolucion_humana": false,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-002",
+      "codigo_historico": "BA-002",
+      "referencia_catalogo": "Morin, E. (1990). Introducción al pensamiento complejo. Gedisa.",
+      "titulo_catalogo": "Introducción al pensamiento complejo",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 295,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-002",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Morin",
+        "anio": "1990",
+        "conceptos": "pensamiento complejo, recursividad, dialógica",
+        "uso_metodologico": "marco epistemológico",
+        "tabla": 3,
+        "fila": 3
+      },
+      "ficha_mismo_codigo": "FIC-BA-002",
+      "referencia_ficha_mismo_codigo": "Morin, E. (1990). Introducción al pensamiento complejo. Gedisa.",
+      "codigo_y_ficha_compatibles": "concordancia_en_mismo_codigo",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-002",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Introducción al pensamiento complejo"
+        }
+      ],
+      "requiere_resolucion_humana": false,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-003",
+      "codigo_historico": "BA-003",
+      "referencia_catalogo": "Morin, E. (1999). Los siete saberes necesarios para la educación del futuro. UNESCO.",
+      "titulo_catalogo": "Los siete saberes necesarios para la educación del futuro",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 296,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-003",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Morin",
+        "anio": "1999",
+        "conceptos": "educación del futuro, reforma del pensamiento",
+        "uso_metodologico": "teoría educativa compleja",
+        "tabla": 3,
+        "fila": 4
+      },
+      "ficha_mismo_codigo": "FIC-BA-003",
+      "referencia_ficha_mismo_codigo": "Morin, E. (1999). Los siete saberes necesarios para la educación del futuro. UNESCO.",
+      "codigo_y_ficha_compatibles": "concordancia_en_mismo_codigo",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-003",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Los siete saberes necesarios para la educación del futuro"
+        }
+      ],
+      "requiere_resolucion_humana": false,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-004",
+      "codigo_historico": "BA-004",
+      "referencia_catalogo": "Morin, E. (2011). ¿Hacia dónde va el mundo?. Paidós.",
+      "titulo_catalogo": "¿Hacia dónde va el mundo?",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 297,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-004",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Morin",
+        "anio": "2011",
+        "conceptos": "crisis civilizatoria, globalización",
+        "uso_metodologico": "contexto filosófico",
+        "tabla": 3,
+        "fila": 5
+      },
+      "ficha_mismo_codigo": "FIC-BA-004",
+      "referencia_ficha_mismo_codigo": "Freire, P. (1970/1972). Pedagogía del oprimido. Siglo XXI Editores.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_probable",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-010",
+          "estado": "candidato_semantico",
+          "similitud_titulo": 73.0,
+          "similitud_autoria": 100,
+          "anio_coincide": false,
+          "titulo_destino": "¿Hacia dónde va el mundo? Barcelona: Paidós"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-005",
+      "codigo_historico": "BA-005",
+      "referencia_catalogo": "Vélez Cardona, W. (2014). Hacia una docencia transdisciplinaria en estudios generales. Universidad de Puerto Rico.",
+      "titulo_catalogo": "Hacia una docencia transdisciplinaria en estudios generales",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 298,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-005",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Vélez Cardona",
+        "anio": "2014",
+        "conceptos": "docencia transdisciplinaria, estudios generales",
+        "uso_metodologico": "aplicación educativa",
+        "tabla": 3,
+        "fila": 6
+      },
+      "ficha_mismo_codigo": "FIC-BA-005",
+      "referencia_ficha_mismo_codigo": "Dewey, J. (1938). Experience and Education. Kappa Delta Pi / Macmillan.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-012",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 77.6,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Hacia una docencia transdisciplinaria en unos Estudios Generales Latinoamericanos y Caribeños"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-006",
+      "codigo_historico": "BA-006",
+      "referencia_catalogo": "Nicolescu, B. (2002). Manifesto of Transdisciplinarity. State University of New York Press.",
+      "titulo_catalogo": "Manifesto of Transdisciplinarity",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 299,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-006",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Nicolescu",
+        "anio": "2002",
+        "conceptos": "transdisciplinarity, niveles de realidad",
+        "uso_metodologico": "teoría epistemológica",
+        "tabla": 3,
+        "fila": 7
+      },
+      "ficha_mismo_codigo": "FIC-BA-006",
+      "referencia_ficha_mismo_codigo": "Castells, M. (1996/1997). La era de la información: economía, sociedad y cultura. Volumen I: La sociedad red. Alianza Editorial.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-007",
+      "codigo_historico": "BA-007",
+      "referencia_catalogo": "Morin, E. (1999). La mente bien ordenada: Repensar la reforma, reformar el pensamiento. Seuil.",
+      "titulo_catalogo": "La mente bien ordenada: Repensar la reforma, reformar el pensamiento",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 300,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-007",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Morin",
+        "anio": "1999",
+        "conceptos": "mente bien ordenada, reforma educativa",
+        "uso_metodologico": "pensamiento complejo aplicado",
+        "tabla": 3,
+        "fila": 8
+      },
+      "ficha_mismo_codigo": "FIC-BA-007",
+      "referencia_ficha_mismo_codigo": "Motta, R. (2002). Complejidad, educación y transdisciplinariedad. Polis. Revista Latinoamericana, 3.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-008",
+      "codigo_historico": "BA-008",
+      "referencia_catalogo": "Morin, E. (1977–2004). El método (Serie completa). Seuil.",
+      "titulo_catalogo": "El método (Serie completa)",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 301,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-008",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Morin",
+        "anio": "1977–2004",
+        "conceptos": "sistema, autoorganización, complejidad",
+        "uso_metodologico": "teoría sistémica",
+        "tabla": 3,
+        "fila": 9
+      },
+      "ficha_mismo_codigo": "FIC-BA-008",
+      "referencia_ficha_mismo_codigo": "Vélez Cardona, W. (2012). Educación general: definiciones, evolución, paradigmas epistemológicos y futuro. Facultad de Estudios Generales, Universidad de Puerto Rico, Recinto de Río Piedras.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-009",
+      "codigo_historico": "BA-009",
+      "referencia_catalogo": "Nicolescu, B. (2010). La lógica del tercero incluido. CIRET.",
+      "titulo_catalogo": "La lógica del tercero incluido",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 302,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-009",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Nicolescu",
+        "anio": "2010",
+        "conceptos": "lógica del tercero incluido",
+        "uso_metodologico": "filosofía de la ciencia",
+        "tabla": 3,
+        "fila": 10
+      },
+      "ficha_mismo_codigo": "FIC-BA-009",
+      "referencia_ficha_mismo_codigo": "Collado Ruano, J. (2017). Filosofía, educación y Buen Vivir: un abordaje polilógico a la diversidad epistémica.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-010",
+      "codigo_historico": "BA-010",
+      "referencia_catalogo": "Vélez Cardona, W., & Sánchez Zambrana, L. (2015). Los estudios generales en las universidades latinoamericanas. Universidad de Puerto Rico.",
+      "titulo_catalogo": "Los estudios generales en las universidades latinoamericanas",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 303,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-010",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Vélez & Sánchez",
+        "anio": "2015",
+        "conceptos": "estudios generales, currículo integrador",
+        "uso_metodologico": "educación superior",
+        "tabla": 3,
+        "fila": 11
+      },
+      "ficha_mismo_codigo": "FIC-BA-010",
+      "referencia_ficha_mismo_codigo": "Morin, E. (2009). ¿Hacia dónde va el mundo? Barcelona: Paidós.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-011",
+      "codigo_historico": "BA-011",
+      "referencia_catalogo": "Diversos autores. (2013). Complejidad, educación y transdisciplinariedad. Universidad Nacional.",
+      "titulo_catalogo": "Complejidad, educación y transdisciplinariedad",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 304,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-011",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Varios autores",
+        "anio": "2013",
+        "conceptos": "complejidad educativa",
+        "uso_metodologico": "integración disciplinaria",
+        "tabla": 3,
+        "fila": 12
+      },
+      "ficha_mismo_codigo": "FIC-BA-011",
+      "referencia_ficha_mismo_codigo": "Ávila Romero, A., & Vázquez, L. D. (Coords.). (2012). Patrimonio biocultural, saberes y derechos de los pueblos originarios. CLACSO – Universidad Intercultural de Chiapas.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-012",
+      "codigo_historico": "BA-012",
+      "referencia_catalogo": "Diversos autores. (2014). Transdisciplinariedad y lógica dialéctica. Editorial Académica.",
+      "titulo_catalogo": "Transdisciplinariedad y lógica dialéctica",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 305,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-012",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Varios autores",
+        "anio": "2014",
+        "conceptos": "lógica dialéctica, complejidad",
+        "uso_metodologico": "teoría social",
+        "tabla": 3,
+        "fila": 13
+      },
+      "ficha_mismo_codigo": "FIC-BA-012",
+      "referencia_ficha_mismo_codigo": "Vélez Cardona, W. (2014). Hacia una docencia transdisciplinaria en unos Estudios Generales Latinoamericanos y Caribeños. Ponencia presentada en el Tercer Seminario Internacional sobre Estudios Generales, INTEC y RIDEG, Santo Domingo, República Dominicana.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-013",
+      "codigo_historico": "BA-013",
+      "referencia_catalogo": "Diversos autores. (2016). Transdisciplinariedad y complejidad en el análisis social. Editorial Académica.",
+      "titulo_catalogo": "Transdisciplinariedad y complejidad en el análisis social",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 306,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-013",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Varios autores",
+        "anio": "2016",
+        "conceptos": "complejidad social",
+        "uso_metodologico": "análisis social",
+        "tabla": 3,
+        "fila": 14
+      },
+      "ficha_mismo_codigo": "FIC-BA-013",
+      "referencia_ficha_mismo_codigo": "Martínez Miguélez, M. (2001). Transdisciplinariedad y lógica dialéctica: un enfoque para la complejidad del mundo actual.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-014",
+      "codigo_historico": "BA-014",
+      "referencia_catalogo": "Diversos autores. (2018). Filosofía de la educación y Buen Vivir: Un abordaje polológico a la diversidad epistémica. Editorial Universitaria.",
+      "titulo_catalogo": "Filosofía de la educación y Buen Vivir: Un abordaje polológico a la diversidad epistémica",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 307,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-014",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Varios autores",
+        "anio": "2018",
+        "conceptos": "Buen Vivir, diversidad epistémica",
+        "uso_metodologico": "epistemologías del sur",
+        "tabla": 3,
+        "fila": 15
+      },
+      "ficha_mismo_codigo": "FIC-BA-014",
+      "referencia_ficha_mismo_codigo": "Carrizo, L., Espina Prieto, M., & Klein, J. T. (2004). Transdisciplinariedad y complejidad en el análisis social. Documento de debate MOST No. 70. UNESCO.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-015",
+      "codigo_historico": "BA-015",
+      "referencia_catalogo": "Diversos autores. (2017). Patrimonio biocultural, saberes y derecho. Universidad Nacional.",
+      "titulo_catalogo": "Patrimonio biocultural, saberes y derecho",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 308,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-015",
+      "registro_matriz": {
+        "bloque": "I",
+        "autoria_resumida": "Varios autores",
+        "anio": "2017",
+        "conceptos": "patrimonio biocultural",
+        "uso_metodologico": "conocimiento tradicional",
+        "tabla": 3,
+        "fila": 16
+      },
+      "ficha_mismo_codigo": "FIC-BA-015",
+      "referencia_ficha_mismo_codigo": "Vélez Cardona, W., & Sánchez Zambrana, C. (2020). La integración epistémica y metodológica en los estudios generales. En O. Turpo-Gebera, A. Hurtado-Mazeyra & P. E. Mango Quispe (Eds.), Los estudios generales en las universidades latinoamericanas: modelos, teorías y tendencias. Arequipa: Universidad Nacional de San Agustín.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-016",
+      "codigo_historico": "BA-016",
+      "referencia_catalogo": "UNESCO. (2023). Education in a Digital World. UNESCO.",
+      "titulo_catalogo": "Education in a Digital World",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 312,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-016",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "UNESCO",
+        "anio": "2023",
+        "conceptos": "educación digital",
+        "uso_metodologico": "política educativa",
+        "tabla": 4,
+        "fila": 2
+      },
+      "ficha_mismo_codigo": "FIC-BA-016",
+      "referencia_ficha_mismo_codigo": "Kong, S. C., & Hu, W. (2026). Unleashing human potential: An artificial intelligence competency framework for K–12 education. Computers and Education: Artificial Intelligence, 10, 100556.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-017",
+      "codigo_historico": "BA-017",
+      "referencia_catalogo": "Giannini, S. (2023). Generative AI and the future of education. UNESCO.",
+      "titulo_catalogo": "Generative AI and the future of education",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 313,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-017",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "Giannini",
+        "anio": "2023",
+        "conceptos": "IA generativa, educación",
+        "uso_metodologico": "futuro educativo",
+        "tabla": 4,
+        "fila": 3
+      },
+      "ficha_mismo_codigo": "FIC-BA-017",
+      "referencia_ficha_mismo_codigo": "Hackl, V., Müller, A. E., & Sailer, M. (2026). The AI literacy heptagon: A structured approach to AI literacy in higher education. Computers and Education: Artificial Intelligence, 10, 100540.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-047",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Generative AI and the future of education"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-018",
+      "codigo_historico": "BA-018",
+      "referencia_catalogo": "UNESCO. (2023). Guidance for generative AI in education and research. UNESCO.",
+      "titulo_catalogo": "Guidance for generative AI in education and research",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 314,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-018",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "UNESCO",
+        "anio": "2023",
+        "conceptos": "IA generativa en investigación",
+        "uso_metodologico": "gobernanza educativa",
+        "tabla": 4,
+        "fila": 4
+      },
+      "ficha_mismo_codigo": "FIC-BA-018",
+      "referencia_ficha_mismo_codigo": "Tao, S., Lan, M., Wang, M., & Li, H. (2026). Potential risks of generative artificial intelligence integration into K-12 education: A scoping review. Computers and Education: Artificial Intelligence, 10, 100561.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-048",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Guidance for generative AI in education and research"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-019",
+      "codigo_historico": "BA-019",
+      "referencia_catalogo": "UNESCO. (2021). AI and education: Protecting the rights of learners. UNESCO.",
+      "titulo_catalogo": "AI and education: Protecting the rights of learners",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 315,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-019",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "UNESCO",
+        "anio": "2021",
+        "conceptos": "derechos de estudiantes",
+        "uso_metodologico": "ética educativa",
+        "tabla": 4,
+        "fila": 5
+      },
+      "ficha_mismo_codigo": "FIC-BA-019",
+      "referencia_ficha_mismo_codigo": "Kong, S. C., & Zhu, J. (2026). Exploring the relationship between empowerment in using artificial intelligence for problem-solving and artificial intelligence ethical awareness: Multi-group structural equation modelling. Computers and Education: Artificial Intelligence, 10, 100555.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_probable",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-034",
+          "estado": "candidato_semantico",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": false,
+          "titulo_destino": "AI and education: Protecting the rights of learners"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-020",
+      "codigo_historico": "BA-020",
+      "referencia_catalogo": "UNESCO. (2021). AI and education: Guidance for policy-makers. UNESCO.",
+      "titulo_catalogo": "AI and education: Guidance for policy-makers",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 316,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-020",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "UNESCO",
+        "anio": "2021",
+        "conceptos": "política pública de IA",
+        "uso_metodologico": "gobernanza",
+        "tabla": 4,
+        "fila": 6
+      },
+      "ficha_mismo_codigo": "FIC-BA-020",
+      "referencia_ficha_mismo_codigo": "Shingjergji, K., Iren, D., Urlings, C., & Klemke, R. (2026). Affective computing in online higher education: A systematic literature review. Computers and Education: Artificial Intelligence, 10, 100499.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-021",
+      "codigo_historico": "BA-021",
+      "referencia_catalogo": "UNESCO. (2024). AI competency framework for students. UNESCO.",
+      "titulo_catalogo": "AI competency framework for students",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 317,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-021",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "UNESCO",
+        "anio": "2024",
+        "conceptos": "competencias IA estudiantes",
+        "uso_metodologico": "alfabetización IA",
+        "tabla": 4,
+        "fila": 7
+      },
+      "ficha_mismo_codigo": "FIC-BA-021",
+      "referencia_ficha_mismo_codigo": "Pei, B., Lu, J., Zhang, Z., Tuffour, P., & Park, S. (2026). Enhancing AI literacy for educators: Where to start and to what end? Computers and Education: Artificial Intelligence, 10, 100550.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "multiples_variantes_o_duplicacion",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-037",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for students"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-022",
+      "codigo_historico": "BA-022",
+      "referencia_catalogo": "UNESCO. (2024). AI competency framework for teachers. UNESCO.",
+      "titulo_catalogo": "AI competency framework for teachers",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 318,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-022",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "UNESCO",
+        "anio": "2024",
+        "conceptos": "competencias IA docentes",
+        "uso_metodologico": "formación docente",
+        "tabla": 4,
+        "fila": 8
+      },
+      "ficha_mismo_codigo": "FIC-BA-022",
+      "referencia_ficha_mismo_codigo": "Dai, K., Liu, Y., & Zhang, X. (2026). Generative AI in higher education: A bibliometric review of emerging trends, power dynamics, and global research landscapes. Computers and Education: Artificial Intelligence, 10, 100544.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "multiples_variantes_o_duplicacion",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-036",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for teachers"
+        },
+        {
+          "destino_id": "FIC-BA-041",
+          "estado": "candidato_semantico",
+          "similitud_titulo": 57.6,
+          "similitud_autoria": 100,
+          "anio_coincide": false,
+          "titulo_destino": "Marco de competencias para docentes en materia de IA (AI Competency Framework for Teachers)"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-023",
+      "codigo_historico": "BA-023",
+      "referencia_catalogo": "Zhai, X., et al. (2021). Artificial intelligence literacy in K-12 education. Computers & Education: Artificial Intelligence.",
+      "titulo_catalogo": "Artificial intelligence literacy in K-12 education",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 319,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-023",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "Zhai et al.",
+        "anio": "2021",
+        "conceptos": "AI literacy",
+        "uso_metodologico": "alfabetización tecnológica",
+        "tabla": 4,
+        "fila": 9
+      },
+      "ficha_mismo_codigo": "FIC-BA-023",
+      "referencia_ficha_mismo_codigo": "Feng, S., & Carolus, A. (2026). Artificial intelligence literacy at school: A systematic review with a focus on psychological foundations. Computers and Education: Artificial Intelligence, 10, 100551.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-024",
+      "codigo_historico": "BA-024",
+      "referencia_catalogo": "Long, D., & Magerko, B. (2020). What is AI literacy? Proceedings of the CHI Conference on Human Factors in Computing Systems.",
+      "titulo_catalogo": "What is AI literacy? Proceedings of the CHI Conference on Human Factors in Computing Systems",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 320,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-024",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "Long & Magerko",
+        "anio": "2020",
+        "conceptos": "AI literacy framework",
+        "uso_metodologico": "educación tecnológica",
+        "tabla": 4,
+        "fila": 10
+      },
+      "ficha_mismo_codigo": "FIC-BA-024",
+      "referencia_ficha_mismo_codigo": "Shi, Y., Yu, K., Dong, Y., & Chen, F. (2026). Large language models in education: A systematic review of empirical applications, benefits, and challenges. Computers and Education: Artificial Intelligence, 10, 100529.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-025",
+      "codigo_historico": "BA-025",
+      "referencia_catalogo": "Lee, I., et al. (2021). AI literacy education framework. Computers and Education.",
+      "titulo_catalogo": "AI literacy education framework",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 321,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-025",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "Lee et al.",
+        "anio": "2021",
+        "conceptos": "educación en IA",
+        "uso_metodologico": "currículo tecnológico",
+        "tabla": 4,
+        "fila": 11
+      },
+      "ficha_mismo_codigo": "FIC-BA-025",
+      "referencia_ficha_mismo_codigo": "Boujmiraz, S., Darhmaoui, H., & Drissi El Maliani, A. (2026). Predicting student performance: A comprehensive review of machine learning, deep learning, and explainable AI approaches. Computers and Education: Artificial Intelligence, 10, 100548.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-026",
+      "codigo_historico": "BA-026",
+      "referencia_catalogo": "Picard, R. (1997). Affective computing. MIT Press.",
+      "titulo_catalogo": "Affective computing",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 322,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-026",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "Picard",
+        "anio": "1997",
+        "conceptos": "affective computing",
+        "uso_metodologico": "interacción humano-máquina",
+        "tabla": 4,
+        "fila": 12
+      },
+      "ficha_mismo_codigo": "FIC-BA-026",
+      "referencia_ficha_mismo_codigo": "Zawacki-Richter, O., Marín, V. I., Bond, M., & Gouverneur, F. (2019). Systematic review of research on artificial intelligence applications in K-12 education. Computers and Education: Artificial Intelligence.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-027",
+      "codigo_historico": "BA-027",
+      "referencia_catalogo": "Holmes, W., Bialik, M., & Fadel, C. (2019). Artificial intelligence in education. Center for Curriculum Redesign.",
+      "titulo_catalogo": "Artificial intelligence in education",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 323,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-027",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "Holmes et al.",
+        "anio": "2019",
+        "conceptos": "IA en educación",
+        "uso_metodologico": "innovación pedagógica",
+        "tabla": 4,
+        "fila": 13
+      },
+      "ficha_mismo_codigo": "FIC-BA-027",
+      "referencia_ficha_mismo_codigo": "Wang, Y., Li, H., Chen, B., & otros. (2024). Artificial intelligence scaffolding in education: A review of AI-supported learning scaffolds. Computers and Education: Artificial Intelligence.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-028",
+      "codigo_historico": "BA-028",
+      "referencia_catalogo": "Zawacki-Richter, O., et al. (2019). Systematic review of AI applications in higher education. International Journal of Educational Technology in Higher Education.",
+      "titulo_catalogo": "Systematic review of AI applications in higher education",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 324,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-028",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "Zawacki-Richter",
+        "anio": "2019",
+        "conceptos": "IA educación superior",
+        "uso_metodologico": "revisión sistemática",
+        "tabla": 4,
+        "fila": 14
+      },
+      "ficha_mismo_codigo": "FIC-BA-028",
+      "referencia_ficha_mismo_codigo": "Sun, D., Ba, S., Cha, Y., Yu, J., Chiang, F.-K., Dai, H. M., & Lim, C.-P. (2026). Empowering university teachers in higher education: A generative AI-responsive competency framework. Computers and Education: Artificial Intelligence, 10, 100542.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-029",
+      "codigo_historico": "BA-029",
+      "referencia_catalogo": "Kasneci, E., et al. (2023). ChatGPT for education. Learning and Individual Differences.",
+      "titulo_catalogo": "ChatGPT for education",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 325,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-029",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "Kasneci et al.",
+        "anio": "2023",
+        "conceptos": "ChatGPT en educación",
+        "uso_metodologico": "IA generativa",
+        "tabla": 4,
+        "fila": 15
+      },
+      "ficha_mismo_codigo": "FIC-BA-029",
+      "referencia_ficha_mismo_codigo": "Mo, F., Huang, J., Yang, Y., Özen, Z., Maeda, Y., & Olenchak, F. R. (2026). Undergraduate students’ learning outcomes with ChatGPT: A meta-analytic study. Computers and Education: Artificial Intelligence, 10, 100536.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-030",
+      "codigo_historico": "BA-030",
+      "referencia_catalogo": "Chen, L., et al. (2020). AI and learning analytics. Computers & Education.",
+      "titulo_catalogo": "AI and learning analytics",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 326,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-030",
+      "registro_matriz": {
+        "bloque": "II",
+        "autoria_resumida": "Chen et al.",
+        "anio": "2020",
+        "conceptos": "learning analytics",
+        "uso_metodologico": "análisis de datos educativos",
+        "tabla": 4,
+        "fila": 16
+      },
+      "ficha_mismo_codigo": "FIC-BA-030",
+      "referencia_ficha_mismo_codigo": "Rismanchian, S., Babar, E. T. R., & Doroudi, S. (2026). What undergraduate students need to know and actually know about generative AI. Computers and Education: Artificial Intelligence, 10, 100554.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-031",
+      "codigo_historico": "BA-031",
+      "referencia_catalogo": "European Commission. (2018). Key competences for lifelong learning. Publications Office of the European Union.",
+      "titulo_catalogo": "Key competences for lifelong learning",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 330,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-031",
+      "registro_matriz": {
+        "bloque": "III",
+        "autoria_resumida": "Comisión Europea",
+        "anio": "2018",
+        "conceptos": "competencias clave",
+        "uso_metodologico": "marco curricular",
+        "tabla": 5,
+        "fila": 2
+      },
+      "ficha_mismo_codigo": "FIC-BA-031",
+      "referencia_ficha_mismo_codigo": "Comisión Europea. (2019). Key competences for lifelong learning. Luxembourg: Publications Office of the European Union.",
+      "codigo_y_ficha_compatibles": "concordancia_en_mismo_codigo",
+      "estado_correspondencia": "equivalencia_probable",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-031",
+          "estado": "candidato_semantico",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": false,
+          "titulo_destino": "Key competences for lifelong learning"
+        }
+      ],
+      "requiere_resolucion_humana": false,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-032",
+      "codigo_historico": "BA-032",
+      "referencia_catalogo": "Vuorikari, R., Kluzer, S., & Punie, Y. (2022). DigComp 2.2: Digital competence framework for citizens. Publications Office of the European Union.",
+      "titulo_catalogo": "DigComp 2.2: Digital competence framework for citizens",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 331,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-032",
+      "registro_matriz": {
+        "bloque": "III",
+        "autoria_resumida": "Vuorikari et al.",
+        "anio": "2022",
+        "conceptos": "DigComp",
+        "uso_metodologico": "competencia digital",
+        "tabla": 5,
+        "fila": 3
+      },
+      "ficha_mismo_codigo": "FIC-BA-032",
+      "referencia_ficha_mismo_codigo": "Morduchowicz, R. (2021). Competencias y habilidades digitales. UNESCO, Oficina Regional de Ciencias para América Latina y el Caribe.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-043",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 96.4,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "DigComp 2.2: The Digital Competence Framework for Citizens"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-033",
+      "codigo_historico": "BA-033",
+      "referencia_catalogo": "Kluzer, S., & Pujol Priego, L. (2018). DigComp into action. Publications Office of the European Union.",
+      "titulo_catalogo": "DigComp into action",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 332,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-033",
+      "registro_matriz": {
+        "bloque": "III",
+        "autoria_resumida": "Kluzer & Pujol",
+        "anio": "2018",
+        "conceptos": "DigComp implementación",
+        "uso_metodologico": "política educativa",
+        "tabla": 5,
+        "fila": 4
+      },
+      "ficha_mismo_codigo": "FIC-BA-033",
+      "referencia_ficha_mismo_codigo": "Valentini, A., & Blancas, A. (2025). The challenges of AI in higher education and institutional responses: Is there room for competency frameworks? UNESCO IESALC Working Papers.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_probable",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-044",
+          "estado": "candidato_semantico",
+          "similitud_titulo": 57.6,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "DigComp into Action: Get inspired, make it happen"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-034",
+      "codigo_historico": "BA-034",
+      "referencia_catalogo": "Association of College and Research Libraries. (2016). Framework for information literacy for higher education. ACRL.",
+      "titulo_catalogo": "Framework for information literacy for higher education",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 333,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-034",
+      "registro_matriz": {
+        "bloque": "III",
+        "autoria_resumida": "ACRL",
+        "anio": "2016",
+        "conceptos": "alfabetización informacional",
+        "uso_metodologico": "educación superior",
+        "tabla": 5,
+        "fila": 5
+      },
+      "ficha_mismo_codigo": "FIC-BA-034",
+      "referencia_ficha_mismo_codigo": "UNESCO. (2025). AI and education: Protecting the rights of learners. Paris: UNESCO.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-035",
+      "codigo_historico": "BA-035",
+      "referencia_catalogo": "Ministerio de Educación de España. (2022). Marco de referencia de la competencia digital docente. Ministerio de Educación.",
+      "titulo_catalogo": "Marco de referencia de la competencia digital docente",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 334,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-035",
+      "registro_matriz": {
+        "bloque": "III",
+        "autoria_resumida": "Ministerio Educación España",
+        "anio": "2022",
+        "conceptos": "competencia digital docente",
+        "uso_metodologico": "formación docente",
+        "tabla": 5,
+        "fila": 6
+      },
+      "ficha_mismo_codigo": "FIC-BA-035",
+      "referencia_ficha_mismo_codigo": "Miao, F., Holmes, W., Huang, R., & Zhang, H. (2021). AI and education: Guidance for policy-makers. Paris: UNESCO.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-040",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Marco de Referencia de la Competencia Digital Docente"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-036",
+      "codigo_historico": "BA-036",
+      "referencia_catalogo": "Roegiers, X. (2016). Marco conceptual para la evaluación de las competencias. UNESCO.",
+      "titulo_catalogo": "Marco conceptual para la evaluación de las competencias",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 335,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-036",
+      "registro_matriz": {
+        "bloque": "III",
+        "autoria_resumida": "Roegiers",
+        "anio": "2016",
+        "conceptos": "evaluación de competencias",
+        "uso_metodologico": "evaluación educativa",
+        "tabla": 5,
+        "fila": 7
+      },
+      "ficha_mismo_codigo": "FIC-BA-036",
+      "referencia_ficha_mismo_codigo": "UNESCO. (2024). AI competency framework for teachers. Paris: UNESCO.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-045",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Marco conceptual para la evaluación de las competencias"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-037",
+      "codigo_historico": "BA-037",
+      "referencia_catalogo": "UNESCO. (2024). AI competency framework for teachers. UNESCO.",
+      "titulo_catalogo": "AI competency framework for teachers",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 336,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-037",
+      "registro_matriz": {
+        "bloque": "III",
+        "autoria_resumida": "UNESCO",
+        "anio": "2024",
+        "conceptos": "IA para docentes",
+        "uso_metodologico": "pedagogía digital",
+        "tabla": 5,
+        "fila": 8
+      },
+      "ficha_mismo_codigo": "FIC-BA-037",
+      "referencia_ficha_mismo_codigo": "UNESCO. (2024). AI competency framework for students. Paris: UNESCO.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "multiples_variantes_o_duplicacion",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-036",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for teachers"
+        },
+        {
+          "destino_id": "FIC-BA-041",
+          "estado": "candidato_semantico",
+          "similitud_titulo": 57.6,
+          "similitud_autoria": 100,
+          "anio_coincide": false,
+          "titulo_destino": "Marco de competencias para docentes en materia de IA (AI Competency Framework for Teachers)"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-038",
+      "codigo_historico": "BA-038",
+      "referencia_catalogo": "UNESCO. (2024). AI competency framework for students. UNESCO.",
+      "titulo_catalogo": "AI competency framework for students",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 337,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-038",
+      "registro_matriz": {
+        "bloque": "III",
+        "autoria_resumida": "UNESCO",
+        "anio": "2024",
+        "conceptos": "IA para estudiantes",
+        "uso_metodologico": "alfabetización tecnológica",
+        "tabla": 5,
+        "fila": 9
+      },
+      "ficha_mismo_codigo": "FIC-BA-038",
+      "referencia_ficha_mismo_codigo": "Association of College and Research Libraries (ACRL). (2016). Marco de referencia para habilidades para el manejo de la información en la educación superior. Chicago: American Library Association.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "multiples_variantes_o_duplicacion",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-037",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for students"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-039",
+      "codigo_historico": "BA-039",
+      "referencia_catalogo": "Ferrari, A. (2013). DIGCOMP: A framework for developing digital competence. European Commission.",
+      "titulo_catalogo": "DIGCOMP: A framework for developing digital competence",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 338,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-039",
+      "registro_matriz": {
+        "bloque": "III",
+        "autoria_resumida": "Ferrari",
+        "anio": "2013",
+        "conceptos": "DigComp framework",
+        "uso_metodologico": "ciudadanía digital",
+        "tabla": 5,
+        "fila": 10
+      },
+      "ficha_mismo_codigo": "FIC-BA-039",
+      "referencia_ficha_mismo_codigo": "Association of College and Research Libraries (ACRL). (2022). Marco de referencia para la alfabetización visual en los estudios superiores. American Library Association.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-040",
+      "codigo_historico": "BA-040",
+      "referencia_catalogo": "Barreda Ángeles, M., et al. (2025). Virtual worlds and well-being. Publications Office of the European Union.",
+      "titulo_catalogo": "Virtual worlds and well-being",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 339,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-040",
+      "registro_matriz": {
+        "bloque": "III",
+        "autoria_resumida": "Barreda Ángeles et al.",
+        "anio": "2025",
+        "conceptos": "mundos virtuales",
+        "uso_metodologico": "bienestar digital",
+        "tabla": 5,
+        "fila": 11
+      },
+      "ficha_mismo_codigo": "FIC-BA-040",
+      "referencia_ficha_mismo_codigo": "Ministerio de Educación y Formación Profesional de España. (2022). Marco de Referencia de la Competencia Digital Docente. Madrid: Ministerio de Educación y Formación Profesional.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-042",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 59.8,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Virtual worlds and well-being: Current research and future directions"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-041",
+      "codigo_historico": "BA-041",
+      "referencia_catalogo": "UNESCO. (2022). Recommendation on the ethics of artificial intelligence. UNESCO.",
+      "titulo_catalogo": "Recommendation on the ethics of artificial intelligence",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 343,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-041",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "UNESCO",
+        "anio": "2022",
+        "conceptos": "ética de IA",
+        "uso_metodologico": "gobernanza global",
+        "tabla": 6,
+        "fila": 2
+      },
+      "ficha_mismo_codigo": "FIC-BA-041",
+      "referencia_ficha_mismo_codigo": "UNESCO. (2025). Marco de competencias para docentes en materia de IA (AI Competency Framework for Teachers). París: UNESCO.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-046",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Recommendation on the Ethics of Artificial Intelligence"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-042",
+      "codigo_historico": "BA-042",
+      "referencia_catalogo": "OECD. (2019). Scoping the OECD AI principles. OECD Publishing.",
+      "titulo_catalogo": "Scoping the OECD AI principles",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 344,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-042",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "OCDE",
+        "anio": "2019",
+        "conceptos": "principios IA",
+        "uso_metodologico": "política tecnológica",
+        "tabla": 6,
+        "fila": 3
+      },
+      "ficha_mismo_codigo": "FIC-BA-042",
+      "referencia_ficha_mismo_codigo": "Barreda Ángeles, M., Amendola, S., Da Silva, C., Somià, T., Boucher, P., Schade, S., Meier, A., Mansfield, K., Gunschera, L., Orben, A., Turner, G., Griffiths, M., Hartmann, T., Freeman, G., Gui, X., Kou, Y., Baumgartner, S., Vuorre, M., Ohme, J., Hine, E., López Richart, J., & Belmoussi, O. (2025). Virtual worlds and well-being: Current research and future directions. Publications Office of the European Union.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-049",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 47.6,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Scoping the OECD AI Principles: Deliberations of the Expert Group on Artificial Intelligence (AIGO)"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-043",
+      "codigo_historico": "BA-043",
+      "referencia_catalogo": "European Commission. (2019). Ethics guidelines for trustworthy AI. European Commission.",
+      "titulo_catalogo": "Ethics guidelines for trustworthy AI",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 345,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-043",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Comisión Europea",
+        "anio": "2019",
+        "conceptos": "IA confiable",
+        "uso_metodologico": "regulación",
+        "tabla": 6,
+        "fila": 4
+      },
+      "ficha_mismo_codigo": "FIC-BA-043",
+      "referencia_ficha_mismo_codigo": "Vuorikari, R., Kluzer, S., & Punie, Y. (2022). DigComp 2.2: The Digital Competence Framework for Citizens. Luxembourg: Publications Office of the European Union.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-044",
+      "codigo_historico": "BA-044",
+      "referencia_catalogo": "Floridi, L. (2019). The ethics of artificial intelligence. Oxford University Press.",
+      "titulo_catalogo": "The ethics of artificial intelligence",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 346,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-044",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Floridi",
+        "anio": "2019",
+        "conceptos": "ética de IA",
+        "uso_metodologico": "filosofía tecnológica",
+        "tabla": 6,
+        "fila": 5
+      },
+      "ficha_mismo_codigo": "FIC-BA-044",
+      "referencia_ficha_mismo_codigo": "Kluzer, S., & Pujol Priego, L. (2018). DigComp into Action: Get inspired, make it happen. A user guide to the European Digital Competence Framework. Luxembourg: Publications Office of the European Union.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_probable",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-051",
+          "estado": "candidato_semantico",
+          "similitud_titulo": 64.9,
+          "similitud_autoria": 100,
+          "anio_coincide": false,
+          "titulo_destino": "The ethics of artificial intelligence: Principles, challenges, and opportunities"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-045",
+      "codigo_historico": "BA-045",
+      "referencia_catalogo": "Floridi, L., et al. (2018). AI4People—An ethical framework for a good AI society. Minds and Machines.",
+      "titulo_catalogo": "AI4People—An ethical framework for a good AI society",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 347,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-045",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Floridi et al.",
+        "anio": "2018",
+        "conceptos": "good AI society",
+        "uso_metodologico": "marco ético",
+        "tabla": 6,
+        "fila": 6
+      },
+      "ficha_mismo_codigo": "FIC-BA-045",
+      "referencia_ficha_mismo_codigo": "Roegiers, X. (2016). Marco conceptual para la evaluación de las competencias. Oficina Internacional de Educación (OIE-UNESCO).",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-052",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 66.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI4People—An ethical framework for a good AI society: Opportunities, risks, principles, and recommendations"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-046",
+      "codigo_historico": "BA-046",
+      "referencia_catalogo": "Crawford, K. (2021). Atlas of AI. Yale University Press.",
+      "titulo_catalogo": "Atlas of AI",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 348,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-046",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Crawford",
+        "anio": "2021",
+        "conceptos": "poder, infraestructura IA",
+        "uso_metodologico": "crítica política",
+        "tabla": 6,
+        "fila": 7
+      },
+      "ficha_mismo_codigo": "FIC-BA-046",
+      "referencia_ficha_mismo_codigo": "UNESCO. (2022). Recommendation on the Ethics of Artificial Intelligence. United Nations Educational, Scientific and Cultural Organization.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-047",
+      "codigo_historico": "BA-047",
+      "referencia_catalogo": "Zuboff, S. (2019). The age of surveillance capitalism. PublicAffairs.",
+      "titulo_catalogo": "The age of surveillance capitalism",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 349,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-047",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Zuboff",
+        "anio": "2019",
+        "conceptos": "capitalismo de vigilancia",
+        "uso_metodologico": "economía digital",
+        "tabla": 6,
+        "fila": 8
+      },
+      "ficha_mismo_codigo": "FIC-BA-047",
+      "referencia_ficha_mismo_codigo": "Giannini, S. (2023). Generative AI and the future of education. UNESCO.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-054",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 54.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "The age of surveillance capitalism: The fight for a human future at the new frontier of power"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-048",
+      "codigo_historico": "BA-048",
+      "referencia_catalogo": "Parikka, J. (2015). A geology of media. University of Minnesota Press.",
+      "titulo_catalogo": "A geology of media",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 350,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-048",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Parikka",
+        "anio": "2015",
+        "conceptos": "geología de los medios",
+        "uso_metodologico": "materialidad digital",
+        "tabla": 6,
+        "fila": 9
+      },
+      "ficha_mismo_codigo": "FIC-BA-048",
+      "referencia_ficha_mismo_codigo": "UNESCO. (2023). Guidance for generative AI in education and research. UNESCO.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-055",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "A geology of media"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-049",
+      "codigo_historico": "BA-049",
+      "referencia_catalogo": "Barbierato, E., & Gatti, A. (2024). Toward green AI. IEEE Access.",
+      "titulo_catalogo": "Toward green AI",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 351,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-049",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Barbierato & Gatti",
+        "anio": "2024",
+        "conceptos": "Green AI",
+        "uso_metodologico": "sostenibilidad tecnológica",
+        "tabla": 6,
+        "fila": 10
+      },
+      "ficha_mismo_codigo": "FIC-BA-049",
+      "referencia_ficha_mismo_codigo": "OECD. (2019). Scoping the OECD AI Principles: Deliberations of the Expert Group on Artificial Intelligence (AIGO). OECD Digital Economy Papers, No. 291.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_probable",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-058",
+          "estado": "candidato_semantico",
+          "similitud_titulo": 36.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Toward Green AI: A methodological survey of the scientific literature"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-050",
+      "codigo_historico": "BA-050",
+      "referencia_catalogo": "Agarwal, S., & Chakraborti, M. (2025). The hidden AI race: Environmental costs of AI.",
+      "titulo_catalogo": "The hidden AI race: Environmental costs of AI",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 352,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-050",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Agarwal & Chakraborti",
+        "anio": "2025",
+        "conceptos": "impacto ambiental IA",
+        "uso_metodologico": "huella energética",
+        "tabla": 6,
+        "fila": 11
+      },
+      "ficha_mismo_codigo": "FIC-BA-050",
+      "referencia_ficha_mismo_codigo": "Grupo Independiente de Expertos de Alto Nivel sobre Inteligencia Artificial. (2019). Directrices éticas para una IA fiable. Comisión Europea.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-057",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 83.8,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "The hidden AI race: Tracking environmental costs of innovation"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-051",
+      "codigo_historico": "BA-051",
+      "referencia_catalogo": "Ebert, K., et al. (2026). Global landscape of environmental AI regulation.",
+      "titulo_catalogo": "Global landscape of environmental AI regulation",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 353,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-051",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Ebert et al.",
+        "anio": "2026",
+        "conceptos": "regulación ambiental IA",
+        "uso_metodologico": "gobernanza tecnológica",
+        "tabla": 6,
+        "fila": 12
+      },
+      "ficha_mismo_codigo": "FIC-BA-051",
+      "referencia_ficha_mismo_codigo": "Floridi, L. (2023). The ethics of artificial intelligence: Principles, challenges, and opportunities. Oxford University Press.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-056",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 63.5,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "The global landscape of environmental AI regulation: From the cost of reasoning to a right to green AI"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-052",
+      "codigo_historico": "BA-052",
+      "referencia_catalogo": "Keil, F., & Stein, M. (2025). Opportunities and risks of using AI in transdisciplinary research.",
+      "titulo_catalogo": "Opportunities and risks of using AI in transdisciplinary research",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 354,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-052",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Keil & Stein",
+        "anio": "2025",
+        "conceptos": "IA en investigación",
+        "uso_metodologico": "transdisciplinariedad",
+        "tabla": 6,
+        "fila": 13
+      },
+      "ficha_mismo_codigo": "FIC-BA-052",
+      "referencia_ficha_mismo_codigo": "Floridi, L., Cowls, J., Beltrametti, M., Chatila, R., Chazerand, P., Dignum, V., Luetge, C., Madelin, R., Pagallo, U., Rossi, F., Schafer, B., Valcke, P., & Vayena, E. (2018). AI4People—An ethical framework for a good AI society: Opportunities, risks, principles, and recommendations. Minds and Machines.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-059",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 90.9,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Opportunities and risks of using AI technologies in transdisciplinary research"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-053",
+      "codigo_historico": "BA-053",
+      "referencia_catalogo": "Tai, M. C. (2020). The impact of artificial intelligence on human society and bioethics. Tzu Chi Medical Journal.",
+      "titulo_catalogo": "The impact of artificial intelligence on human society and bioethics",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 355,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-053",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Tai",
+        "anio": "2020",
+        "conceptos": "bioética IA",
+        "uso_metodologico": "ética tecnológica",
+        "tabla": 6,
+        "fila": 14
+      },
+      "ficha_mismo_codigo": "FIC-BA-053",
+      "referencia_ficha_mismo_codigo": "Crawford, K. (2021). Atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "equivalencia_documental_fuerte",
+      "candidatos_ficha": [
+        {
+          "destino_id": "FIC-BA-060",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "The impact of artificial intelligence on human society and bioethics"
+        }
+      ],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-054",
+      "codigo_historico": "BA-054",
+      "referencia_catalogo": "Luccioni, A. S., et al. (2023). Energy consumption of AI models.",
+      "titulo_catalogo": "Energy consumption of AI models",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 356,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-054",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Luccioni et al.",
+        "anio": "2023",
+        "conceptos": "consumo energético IA",
+        "uso_metodologico": "sostenibilidad",
+        "tabla": 6,
+        "fila": 15
+      },
+      "ficha_mismo_codigo": "FIC-BA-054",
+      "referencia_ficha_mismo_codigo": "Zuboff, S. (2019). The age of surveillance capitalism: The fight for a human future at the new frontier of power. PublicAffairs.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-055",
+      "codigo_historico": "BA-055",
+      "referencia_catalogo": "Strubell, E., et al. (2019). Energy and policy considerations for deep learning. ACL Conference.",
+      "titulo_catalogo": "Energy and policy considerations for deep learning",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 357,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-055",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Strubell et al.",
+        "anio": "2019",
+        "conceptos": "costo energético NLP",
+        "uso_metodologico": "política tecnológica",
+        "tabla": 6,
+        "fila": 16
+      },
+      "ficha_mismo_codigo": "FIC-BA-055",
+      "referencia_ficha_mismo_codigo": "Parikka, J. (2015). A geology of media. University of Minnesota Press.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-056",
+      "codigo_historico": "BA-056",
+      "referencia_catalogo": "Schwartz, R., et al. (2020). Green AI. Communications of the ACM.",
+      "titulo_catalogo": "Green AI",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 358,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-056",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Schwartz et al.",
+        "anio": "2020",
+        "conceptos": "Green AI",
+        "uso_metodologico": "eficiencia computacional",
+        "tabla": 6,
+        "fila": 17
+      },
+      "ficha_mismo_codigo": "FIC-BA-056",
+      "referencia_ficha_mismo_codigo": "Ebert, K., Gamazaychikov, B., Hacker, P., & Luccioni, S. (2026). The global landscape of environmental AI regulation: From the cost of reasoning to a right to green AI. Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT).",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-057",
+      "codigo_historico": "BA-057",
+      "referencia_catalogo": "Bender, E., et al. (2021). On the dangers of stochastic parrots. FAccT Conference.",
+      "titulo_catalogo": "On the dangers of stochastic parrots",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 359,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-057",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Bender et al.",
+        "anio": "2021",
+        "conceptos": "riesgos LLM",
+        "uso_metodologico": "crítica tecnológica",
+        "tabla": 6,
+        "fila": 18
+      },
+      "ficha_mismo_codigo": "FIC-BA-057",
+      "referencia_ficha_mismo_codigo": "Agarwal, S., & Chakraborti, M. (2025). The hidden AI race: Tracking environmental costs of innovation. ACM.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-058",
+      "codigo_historico": "BA-058",
+      "referencia_catalogo": "Birhane, A. (2021). Algorithmic colonization of Africa.",
+      "titulo_catalogo": "Algorithmic colonization of Africa",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 360,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-058",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Birhane",
+        "anio": "2021",
+        "conceptos": "colonialismo algorítmico",
+        "uso_metodologico": "justicia digital",
+        "tabla": 6,
+        "fila": 19
+      },
+      "ficha_mismo_codigo": "FIC-BA-058",
+      "referencia_ficha_mismo_codigo": "Barbierato, E., & Gatti, A. (2024). Toward Green AI: A methodological survey of the scientific literature. IEEE Access, 12, 23989–24015.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-059",
+      "codigo_historico": "BA-059",
+      "referencia_catalogo": "Vinuesa, R., et al. (2020). The role of AI in achieving the SDGs. Nature Communications.",
+      "titulo_catalogo": "The role of AI in achieving the SDGs",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 361,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-059",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Vinuesa et al.",
+        "anio": "2020",
+        "conceptos": "IA y sostenibilidad",
+        "uso_metodologico": "desarrollo sostenible",
+        "tabla": 6,
+        "fila": 20
+      },
+      "ficha_mismo_codigo": "FIC-BA-059",
+      "referencia_ficha_mismo_codigo": "Keil, F., & Stein, M. (2025). Opportunities and risks of using AI technologies in transdisciplinary research. ISOE Materials Social Ecology 77. Institute for Social-Ecological Research.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    },
+    {
+      "catalogo_id": "CAT-BA-060",
+      "codigo_historico": "BA-060",
+      "referencia_catalogo": "Mittelstadt, B. (2019). Principles alone cannot guarantee ethical AI. Nature Machine Intelligence.",
+      "titulo_catalogo": "Principles alone cannot guarantee ethical AI",
+      "origen_catalogo": {
+        "archivo": "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+        "indice_parrafo_docx": 362,
+        "seccion": "Catálogo BA-001 – BA-060"
+      },
+      "matriz_id": "MAT-BA-060",
+      "registro_matriz": {
+        "bloque": "IV",
+        "autoria_resumida": "Mittelstadt",
+        "anio": "2019",
+        "conceptos": "límites de principios éticos",
+        "uso_metodologico": "gobernanza IA",
+        "tabla": 6,
+        "fila": 21
+      },
+      "ficha_mismo_codigo": "FIC-BA-060",
+      "referencia_ficha_mismo_codigo": "Tai, M. C. (2020). The impact of artificial intelligence on human society and bioethics. Tzu Chi Medical Journal, 32(4), 339–343.",
+      "codigo_y_ficha_compatibles": "referentes_distintos_o_no_concluyentes",
+      "estado_correspondencia": "sin_correspondencia_concluyente",
+      "candidatos_ficha": [],
+      "requiere_resolucion_humana": true,
+      "regla": "Coincidencia interna no acredita identidad de edición ni verificación bibliográfica externa."
+    }
+  ]
+}

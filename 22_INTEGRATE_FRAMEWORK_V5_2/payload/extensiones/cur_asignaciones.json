@@ -1,0 +1,3210 @@
+{
+  "metadata": {
+    "origen": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+    "sin_fusion": true
+  },
+  "filas": [
+    {
+      "asignacion_id": "CUR-1A-01",
+      "unidad": 1,
+      "subunidad": "1A",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "Poole, D. L., & Mackworth, A. K. (2023). *Artificial intelligence: Foundations of computational agents* (3rd ed.). Cambridge University Press.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 106
+      },
+      "titulo_para_comparacion": "Artificial intelligence: Foundations of computational agents (3rd ed.). Cambridge University Press",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1A-02",
+      "unidad": 1,
+      "subunidad": "1A",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "UNESCO. (2024). *AI competency framework for students*. UNESCO. https://doi.org/10.54675/JKJB9835",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 116
+      },
+      "titulo_para_comparacion": "AI competency framework for students. UNESCO. https://doi.org/10.54675/JKJB9835",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-021",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for students"
+        },
+        {
+          "destino_id": "CAT-BA-038",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for students"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-037",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for students"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1A-03",
+      "unidad": 1,
+      "subunidad": "1A",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "Long, D., & Magerko, B. (2020). What is AI literacy? *Proceedings of the CHI Conference on Human Factors in Computing Systems*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 126
+      },
+      "titulo_para_comparacion": "What is AI literacy? Proceedings of the CHI Conference on Human Factors in Computing Systems",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-024",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "What is AI literacy? Proceedings of the CHI Conference on Human Factors in Computing Systems"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1A-04",
+      "unidad": 1,
+      "subunidad": "1A",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "Russell, S., & Norvig, P. (2021). *Artificial intelligence: A modern approach* (4th ed.). Pearson.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 138
+      },
+      "titulo_para_comparacion": "Artificial intelligence: A modern approach (4th ed.). Pearson",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1A-05",
+      "unidad": 1,
+      "subunidad": "1A",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "AI Index Steering Committee. (2026). *Artificial Intelligence Index Report 2026*. Stanford Institute for Human-Centered Artificial Intelligence.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 148
+      },
+      "titulo_para_comparacion": "Artificial Intelligence Index Report 2026. Stanford Institute for Human-Centered Artificial Intelligence",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1A-06",
+      "unidad": 1,
+      "subunidad": "1A",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "Mollick, E. (2024). *Co-intelligence: Living and working with AI*. Portfolio.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 158
+      },
+      "titulo_para_comparacion": "Co-intelligence: Living and working with AI. Portfolio",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1A-07",
+      "unidad": 1,
+      "subunidad": "1A",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Morin, E. (1990). *Introducción al pensamiento complejo*. Gedisa.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 170
+      },
+      "titulo_para_comparacion": "Introducción al pensamiento complejo. Gedisa",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-002",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Introducción al pensamiento complejo"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-002",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Introducción al pensamiento complejo"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1A-08",
+      "unidad": 1,
+      "subunidad": "1A",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "Nicolescu, B. (1996). *La transdisciplinariedad: Manifiesto*. Éditions du Rocher.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 180
+      },
+      "titulo_para_comparacion": "La transdisciplinariedad: Manifiesto. Éditions du Rocher",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-001",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 78.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "La transdisciplinariedad: Manifiesto"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-001",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 78.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "La transdisciplinariedad: Manifiesto"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1A-09",
+      "unidad": 1,
+      "subunidad": "1A",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "OpenAI. (2025). *ChatGPT* [Modelo de lenguaje con inteligencia artificial]. https://chat.openai.com/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 192
+      },
+      "titulo_para_comparacion": "ChatGPT [Modelo de lenguaje con inteligencia artificial]. https://chat.openai.com/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1A-10",
+      "unidad": 1,
+      "subunidad": "1A",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "Anthropic. (2025). *Claude* [Modelo de lenguaje con inteligencia artificial]. https://claude.ai/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 202
+      },
+      "titulo_para_comparacion": "Claude [Modelo de lenguaje con inteligencia artificial]. https://claude.ai/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1B-01",
+      "unidad": 1,
+      "subunidad": "1B",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "UNESCO. (2023). *Guidance for generative AI in education and research*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 236
+      },
+      "titulo_para_comparacion": "Guidance for generative AI in education and research. UNESCO",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-018",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 93.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Guidance for generative AI in education and research"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-048",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 93.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Guidance for generative AI in education and research"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1B-02",
+      "unidad": 1,
+      "subunidad": "1B",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "Sabzalieva, E., & Valentini, A. (2023). *ChatGPT e inteligencia artificial en la educación superior: Guía de inicio rápido*. UNESCO-IESALC.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 246
+      },
+      "titulo_para_comparacion": "ChatGPT e inteligencia artificial en la educación superior: Guía de inicio rápido. UNESCO-IESALC",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1B-03",
+      "unidad": 1,
+      "subunidad": "1B",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "Kasneci, E., et al. (2023). ChatGPT for education: Opportunities and challenges. *Learning and Individual Differences*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 256
+      },
+      "titulo_para_comparacion": "ChatGPT for education: Opportunities and challenges. Learning and Individual Differences",
+      "estado_cruce_ba": "con_candidatos_probables",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-029",
+          "estado": "candidato_semantico",
+          "similitud_titulo": 39.3,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "ChatGPT for education"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1B-04",
+      "unidad": 1,
+      "subunidad": "1B",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "U.S. Department of Education, Office of Educational Technology. (2023). *Artificial intelligence and the future of teaching and learning: Insights and recommendations*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 268
+      },
+      "titulo_para_comparacion": "Artificial intelligence and the future of teaching and learning: Insights and recommendations",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1B-05",
+      "unidad": 1,
+      "subunidad": "1B",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "Holmes, W., Bialik, M., & Fadel, C. (2019). *Artificial intelligence in education*. Center for Curriculum Redesign.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 278
+      },
+      "titulo_para_comparacion": "Artificial intelligence in education. Center for Curriculum Redesign",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-027",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 69.9,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Artificial intelligence in education"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1B-06",
+      "unidad": 1,
+      "subunidad": "1B",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "Lee, I., et al. (2021). AI literacy education framework. *Computers and Education*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 288
+      },
+      "titulo_para_comparacion": "AI literacy education framework. Computers and Education",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-025",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 72.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI literacy education framework"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1B-07",
+      "unidad": 1,
+      "subunidad": "1B",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Castells, M. (2005). *La era de la información: Economía, sociedad y cultura: Volumen 1, La sociedad red*. Alianza Editorial.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 300
+      },
+      "titulo_para_comparacion": "La era de la información: Economía, sociedad y cultura: Volumen 1, La sociedad red. Alianza Editorial",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1B-08",
+      "unidad": 1,
+      "subunidad": "1B",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "Crawford, K. (2021). *Atlas of AI: Power, politics, and the planetary costs of artificial intelligence*. Yale University Press.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 310
+      },
+      "titulo_para_comparacion": "Atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-053",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 87.5,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Atlas of AI: Power, politics, and the planetary costs of artificial intelligence"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1B-09",
+      "unidad": 1,
+      "subunidad": "1B",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "Perplexity AI. (2025). *Perplexity AI* [Buscador en Internet y modelo de lenguaje con inteligencia artificial]. https://www.perplexity.ai/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 322
+      },
+      "titulo_para_comparacion": "Perplexity AI [Buscador en Internet y modelo de lenguaje con inteligencia artificial]. https://www.perplexity.ai/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1B-10",
+      "unidad": 1,
+      "subunidad": "1B",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "The AI Breakdown. (2025). *The AI Breakdown* [Podcast sobre inteligencia artificial]. https://nlw.ai/podcast",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 332
+      },
+      "titulo_para_comparacion": "The AI Breakdown [Podcast sobre inteligencia artificial]. https://nlw.ai/podcast",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1C-01",
+      "unidad": 1,
+      "subunidad": "1C",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "Association of College and Research Libraries. (2016). *Framework for information literacy for higher education*. Association of College and Research Libraries.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 365
+      },
+      "titulo_para_comparacion": "Framework for information literacy for higher education. Association of College and Research Libraries",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-034",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 70.5,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Framework for information literacy for higher education"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1C-02",
+      "unidad": 1,
+      "subunidad": "1C",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "UNESCO. (2021). *Recomendación sobre la ética de la inteligencia artificial*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 375
+      },
+      "titulo_para_comparacion": "Recomendación sobre la ética de la inteligencia artificial. UNESCO",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1C-03",
+      "unidad": 1,
+      "subunidad": "1C",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "Bender, E., Gebru, T., McMillan-Major, A., & Mitchell, M. (2021). On the dangers of stochastic parrots: Can language models be too big? *Proceedings of the ACM Conference on Fairness, Accountability, and Transparency*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 385
+      },
+      "titulo_para_comparacion": "On the dangers of stochastic parrots: Can language models be too big? Proceedings of the ACM Conference on Fairness, Accountability, and Transparency",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-057",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 39.8,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "On the dangers of stochastic parrots"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1C-04",
+      "unidad": 1,
+      "subunidad": "1C",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "National Institute of Standards and Technology. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*. U.S. Department of Commerce.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 397
+      },
+      "titulo_para_comparacion": "Artificial Intelligence Risk Management Framework (AI RMF 1.0). U.S. Department of Commerce",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1C-05",
+      "unidad": 1,
+      "subunidad": "1C",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "Mittelstadt, B. (2019). Principles alone cannot guarantee ethical AI. *Nature Machine Intelligence*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 407
+      },
+      "titulo_para_comparacion": "Principles alone cannot guarantee ethical AI. Nature Machine Intelligence",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-060",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 75.9,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Principles alone cannot guarantee ethical AI"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1C-06",
+      "unidad": 1,
+      "subunidad": "1C",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "Floridi, L., Cowls, J., Beltrametti, M., Chatila, R., Chazerand, P., Dignum, V., Luetge, C., Madelin, R., Pagallo, U., Rossi, F., Schafer, B., Valcke, P., & Vayena, E. (2018). AI4People: An ethical framework for a good AI society. *Minds and Machines*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 417
+      },
+      "titulo_para_comparacion": "AI4People: An ethical framework for a good AI society. Minds and Machines",
+      "estado_cruce_ba": "con_candidatos_probables",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-045",
+          "estado": "candidato_semantico",
+          "similitud_titulo": 83.6,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI4People—An ethical framework for a good AI society"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1C-07",
+      "unidad": 1,
+      "subunidad": "1C",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Mohamed, S., Png, M.-T., & Isaac, W. (2020). Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence. *Philosophy & Technology, 33*(4), 659–684.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 429
+      },
+      "titulo_para_comparacion": "Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence. Philosophy & Technology, 33(4), 659–684",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1C-08",
+      "unidad": 1,
+      "subunidad": "1C",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "Birhane, A. (2021). Algorithmic colonization of Africa. *SCRIPTed, 18*(2), 389–409.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 439
+      },
+      "titulo_para_comparacion": "Algorithmic colonization of Africa. SCRIPTed, 18(2), 389–409",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-058",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 76.4,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Algorithmic colonization of Africa"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1C-09",
+      "unidad": 1,
+      "subunidad": "1C",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "Consensus. (2025). *Consensus* [Herramienta de inteligencia artificial para búsqueda académica]. https://consensus.app/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 451
+      },
+      "titulo_para_comparacion": "Consensus [Herramienta de inteligencia artificial para búsqueda académica]. https://consensus.app/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-1C-10",
+      "unidad": 1,
+      "subunidad": "1C",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "Ought. (2025). *Elicit* [Herramienta de inteligencia artificial para investigación]. https://elicit.com/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 461
+      },
+      "titulo_para_comparacion": "Elicit [Herramienta de inteligencia artificial para investigación]. https://elicit.com/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2A-01",
+      "unidad": 2,
+      "subunidad": "2A",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "CAST. (2024). *Universal Design for Learning Guidelines 3.0*. CAST.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 518
+      },
+      "titulo_para_comparacion": "Universal Design for Learning Guidelines 3.0. CAST",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2A-02",
+      "unidad": 2,
+      "subunidad": "2A",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "UNESCO. (2024). *AI competency framework for teachers*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 528
+      },
+      "titulo_para_comparacion": "AI competency framework for teachers. UNESCO",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-022",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for teachers"
+        },
+        {
+          "destino_id": "CAT-BA-037",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for teachers"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-036",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for teachers"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2A-03",
+      "unidad": 2,
+      "subunidad": "2A",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "Association of College and Research Libraries. (2016). *Framework for information literacy for higher education*. Association of College and Research Libraries.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 538
+      },
+      "titulo_para_comparacion": "Framework for information literacy for higher education. Association of College and Research Libraries",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-034",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 70.5,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Framework for information literacy for higher education"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2A-04",
+      "unidad": 2,
+      "subunidad": "2A",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "U.S. Department of Education, Office of Educational Technology. (2023). *Artificial intelligence and the future of teaching and learning: Insights and recommendations*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 550
+      },
+      "titulo_para_comparacion": "Artificial intelligence and the future of teaching and learning: Insights and recommendations",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2A-05",
+      "unidad": 2,
+      "subunidad": "2A",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "Bozkurt, A. (2023). Generative AI, synthetic contents, open educational resources (OER), and open educational practices (OEP): A new front in the openness landscape. *Open Praxis, 15*(3), 178–184.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 560
+      },
+      "titulo_para_comparacion": "Generative AI, synthetic contents, open educational resources (OER), and open educational practices (OEP): A new front in the openness landscape. Open Praxis, 15(3), 178–184",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2A-06",
+      "unidad": 2,
+      "subunidad": "2A",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "Morduchowicz, R. (2021). *Competencias y habilidades digitales*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 570
+      },
+      "titulo_para_comparacion": "Competencias y habilidades digitales. UNESCO",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-032",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Competencias y habilidades digitales"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2A-07",
+      "unidad": 2,
+      "subunidad": "2A",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Boyer, E. L. (1992). Seeing the connectedness of things. *Educational Leadership, 49*(2), 8–12.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 582
+      },
+      "titulo_para_comparacion": "Seeing the connectedness of things. Educational Leadership, 49(2), 8–12",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2A-08",
+      "unidad": 2,
+      "subunidad": "2A",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "Martínez Heredia, K. M., & Soto Molina, J. E. (2024). Transformación educativa a través de la transdisciplinariedad: Una ruta hacia la innovación curricular. *EDUCARE ET COMUNICARE. Revista Científica de la Facultad de Humanidades, 12*(2), 76–89.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 592
+      },
+      "titulo_para_comparacion": "Transformación educativa a través de la transdisciplinariedad: Una ruta hacia la innovación curricular. EDUCARE ET COMUNICARE. Revista Científica de la Facultad de Humanidades, 12(2), 76–89",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2A-09",
+      "unidad": 2,
+      "subunidad": "2A",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "OpenAI. (2023). *Teaching with AI*. OpenAI. https://openai.com/blog/teaching-with-ai",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 604
+      },
+      "titulo_para_comparacion": "Teaching with AI. OpenAI. https://openai.com/blog/teaching-with-ai",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2A-10",
+      "unidad": 2,
+      "subunidad": "2A",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "Comenio AI. (2025). *Comenio* [Plataforma de inteligencia artificial para educación]. https://www.comenio.ai/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 614
+      },
+      "titulo_para_comparacion": "Comenio [Plataforma de inteligencia artificial para educación]. https://www.comenio.ai/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2B-01",
+      "unidad": 2,
+      "subunidad": "2B",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "UNESCO. (2023). *Guidance for generative AI in education and research*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 648
+      },
+      "titulo_para_comparacion": "Guidance for generative AI in education and research. UNESCO",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-018",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 93.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Guidance for generative AI in education and research"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-048",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 93.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Guidance for generative AI in education and research"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2B-02",
+      "unidad": 2,
+      "subunidad": "2B",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "UNESCO. (2024). *AI competency framework for students*. UNESCO. https://doi.org/10.54675/JKJB9835",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 658
+      },
+      "titulo_para_comparacion": "AI competency framework for students. UNESCO. https://doi.org/10.54675/JKJB9835",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-021",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for students"
+        },
+        {
+          "destino_id": "CAT-BA-038",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for students"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-037",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for students"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2B-03",
+      "unidad": 2,
+      "subunidad": "2B",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "Mollick, E. R., & Mollick, L. (2023). *Assigning AI: Seven approaches for students, with prompts*. SSRN.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 668
+      },
+      "titulo_para_comparacion": "Assigning AI: Seven approaches for students, with prompts. SSRN",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2B-04",
+      "unidad": 2,
+      "subunidad": "2B",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "Holmes, W., Bialik, M., & Fadel, C. (2019). *Artificial intelligence in education*. Center for Curriculum Redesign.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 680
+      },
+      "titulo_para_comparacion": "Artificial intelligence in education. Center for Curriculum Redesign",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-027",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 69.9,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Artificial intelligence in education"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2B-05",
+      "unidad": 2,
+      "subunidad": "2B",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "Kasneci, E., et al. (2023). ChatGPT for education: Opportunities and challenges. *Learning and Individual Differences*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 690
+      },
+      "titulo_para_comparacion": "ChatGPT for education: Opportunities and challenges. Learning and Individual Differences",
+      "estado_cruce_ba": "con_candidatos_probables",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-029",
+          "estado": "candidato_semantico",
+          "similitud_titulo": 39.3,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "ChatGPT for education"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2B-06",
+      "unidad": 2,
+      "subunidad": "2B",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "Vuorikari, R., Kluzer, S., & Punie, Y. (2022). *DigComp 2.2: Digital competence framework for citizens*. Publications Office of the European Union.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 700
+      },
+      "titulo_para_comparacion": "DigComp 2.2: Digital competence framework for citizens. Publications Office of the European Union",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-032",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 71.6,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "DigComp 2.2: Digital competence framework for citizens"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-043",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 69.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "DigComp 2.2: The Digital Competence Framework for Citizens"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2B-07",
+      "unidad": 2,
+      "subunidad": "2B",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Morin, E. (1999). *Los siete saberes necesarios para la educación del futuro*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 712
+      },
+      "titulo_para_comparacion": "Los siete saberes necesarios para la educación del futuro. UNESCO",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-003",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 94.2,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Los siete saberes necesarios para la educación del futuro"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-003",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 94.2,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Los siete saberes necesarios para la educación del futuro"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2B-08",
+      "unidad": 2,
+      "subunidad": "2B",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "Vélez Cardona, W. (2014). *Hacia una docencia transdisciplinaria*. Universidad de Puerto Rico.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 722
+      },
+      "titulo_para_comparacion": "Hacia una docencia transdisciplinaria. Universidad de Puerto Rico",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2B-09",
+      "unidad": 2,
+      "subunidad": "2B",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "ElevenLabs. (2025). *ElevenLabs* [Plataforma de inteligencia artificial para generación de voz]. https://elevenlabs.io/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 734
+      },
+      "titulo_para_comparacion": "ElevenLabs [Plataforma de inteligencia artificial para generación de voz]. https://elevenlabs.io/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2B-10",
+      "unidad": 2,
+      "subunidad": "2B",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "Microsoft Learn. (2026). *AI for educators*. Microsoft Learn. https://learn.microsoft.com/en-us/training/paths/ai-education/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 744
+      },
+      "titulo_para_comparacion": "AI for educators. Microsoft Learn. https://learn.microsoft.com/en-us/training/paths/ai-education/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2C-01",
+      "unidad": 2,
+      "subunidad": "2C",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "Association of College & Research Libraries. (2022). *Marco de referencia a la estructura ACRL para la alfabetización informativa para los estudios superiores* (L. Garza Grande, Trad.). Association of College & Research Libraries.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 778
+      },
+      "titulo_para_comparacion": "Marco de referencia a la estructura ACRL para la alfabetización informativa para los estudios superiores (L. Garza Grande, Trad.). Association of College & Research Libraries",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2C-02",
+      "unidad": 2,
+      "subunidad": "2C",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "Lodge, J., Howard, S., Bearman, M. L., Dawson, P., & Associates. (2023). *Assessment reform for the age of artificial intelligence*. Tertiary Education Quality and Standards Agency.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 788
+      },
+      "titulo_para_comparacion": "Assessment reform for the age of artificial intelligence. Tertiary Education Quality and Standards Agency",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2C-03",
+      "unidad": 2,
+      "subunidad": "2C",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "UNESCO. (2021). *Recomendación sobre la ética de la inteligencia artificial*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 798
+      },
+      "titulo_para_comparacion": "Recomendación sobre la ética de la inteligencia artificial. UNESCO",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2C-04",
+      "unidad": 2,
+      "subunidad": "2C",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "CAST. (2024). *Universal Design for Learning Guidelines 3.0*. CAST.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 810
+      },
+      "titulo_para_comparacion": "Universal Design for Learning Guidelines 3.0. CAST",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2C-05",
+      "unidad": 2,
+      "subunidad": "2C",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "Roegiers, X. (2016). *Marco conceptual para la evaluación de las competencias*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 820
+      },
+      "titulo_para_comparacion": "Marco conceptual para la evaluación de las competencias. UNESCO",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-036",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 94.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Marco conceptual para la evaluación de las competencias"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-045",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 94.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Marco conceptual para la evaluación de las competencias"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2C-06",
+      "unidad": 2,
+      "subunidad": "2C",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "Salvatierra, F., & Kelly, V. (2023). *Planeamiento educativo y tecnologías digitales en América Latina*. IIPE UNESCO, Oficina para América Latina y el Caribe.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 830
+      },
+      "titulo_para_comparacion": "Planeamiento educativo y tecnologías digitales en América Latina. IIPE UNESCO, Oficina para América Latina y el Caribe",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2C-07",
+      "unidad": 2,
+      "subunidad": "2C",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "López, A. I., & Feliú Mójer, M. I. (2025). *Reflexivity: A tool for inclusive science communication*. Ciencia Puerto Rico.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 842
+      },
+      "titulo_para_comparacion": "Reflexivity: A tool for inclusive science communication. Ciencia Puerto Rico",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2C-08",
+      "unidad": 2,
+      "subunidad": "2C",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "Vélez Cardona, W., & Villanueva Gómez, E. (2024). The decolonial transdisciplinarity: A challenge for which the General Studies are not prepared. *AULA Journal of Humanities and Social Sciences, 71*(2), 10.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 852
+      },
+      "titulo_para_comparacion": "The decolonial transdisciplinarity: A challenge for which the General Studies are not prepared. AULA Journal of Humanities and Social Sciences, 71(2), 10",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2C-09",
+      "unidad": 2,
+      "subunidad": "2C",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "SciSpace. (2025). *SciSpace* [Herramienta de inteligencia artificial para lectura y explicación de artículos académicos]. https://typeset.io/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 864
+      },
+      "titulo_para_comparacion": "SciSpace [Herramienta de inteligencia artificial para lectura y explicación de artículos académicos]. https://typeset.io/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-2C-10",
+      "unidad": 2,
+      "subunidad": "2C",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "Perplexity AI. (2025). *Perplexity AI* [Buscador en Internet y modelo de lenguaje con inteligencia artificial]. https://www.perplexity.ai/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 874
+      },
+      "titulo_para_comparacion": "Perplexity AI [Buscador en Internet y modelo de lenguaje con inteligencia artificial]. https://www.perplexity.ai/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3A-01",
+      "unidad": 3,
+      "subunidad": "3A",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "Association of College and Research Libraries. (2016). *Framework for information literacy for higher education*. Association of College and Research Libraries.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 944
+      },
+      "titulo_para_comparacion": "Framework for information literacy for higher education. Association of College and Research Libraries",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-034",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 70.5,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Framework for information literacy for higher education"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3A-02",
+      "unidad": 3,
+      "subunidad": "3A",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "Messeri, L., & Crockett, M. J. (2024). Artificial intelligence and illusions of understanding in scientific research. *Nature, 627*(8002), 49–58. https://doi.org/10.1038/s41586-024-07146-0",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 954
+      },
+      "titulo_para_comparacion": "Artificial intelligence and illusions of understanding in scientific research. Nature, 627(8002), 49–58. https://doi.org/10.1038/s41586-024-07146-0",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3A-03",
+      "unidad": 3,
+      "subunidad": "3A",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "The Turing Way Community. (2025). *The Turing Way: A handbook for reproducible, ethical and collaborative research*. Zenodo.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 964
+      },
+      "titulo_para_comparacion": "The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3A-04",
+      "unidad": 3,
+      "subunidad": "3A",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "OpenAlex. (2026). *OpenAlex: The open catalog to the global research system*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 976
+      },
+      "titulo_para_comparacion": "OpenAlex: The open catalog to the global research system",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3A-05",
+      "unidad": 3,
+      "subunidad": "3A",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "National Academies of Sciences, Engineering, and Medicine. (2024). *AI for scientific discovery: Proceedings of a workshop*. National Academies Press.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 986
+      },
+      "titulo_para_comparacion": "AI for scientific discovery: Proceedings of a workshop. National Academies Press",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3A-06",
+      "unidad": 3,
+      "subunidad": "3A",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "Zawacki-Richter, O., Marín, V., Bond, M., & Gouverneur, F. (2019). Systematic review of AI applications in higher education. *International Journal of Educational Technology in Higher Education*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 996
+      },
+      "titulo_para_comparacion": "Systematic review of AI applications in higher education. International Journal of Educational Technology in Higher Education",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-028",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 62.2,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Systematic review of AI applications in higher education"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3A-07",
+      "unidad": 3,
+      "subunidad": "3A",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Vélez-Cardona, W., Durán-Landazábal, G. M., & López-Correa, A. Y. (2018). ¿Qué hace que una investigación deba ser considerada transdisciplinaria? *Praxis, 14*(2), 243–252.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1008
+      },
+      "titulo_para_comparacion": "¿Qué hace que una investigación deba ser considerada transdisciplinaria? Praxis, 14(2), 243–252",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3A-08",
+      "unidad": 3,
+      "subunidad": "3A",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "Nicolescu, B. (1996). *La transdisciplinariedad: Manifiesto*. Éditions du Rocher.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1018
+      },
+      "titulo_para_comparacion": "La transdisciplinariedad: Manifiesto. Éditions du Rocher",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-001",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 78.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "La transdisciplinariedad: Manifiesto"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-001",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 78.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "La transdisciplinariedad: Manifiesto"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3A-09",
+      "unidad": 3,
+      "subunidad": "3A",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "Consensus. (2025). *Consensus* [Herramienta de inteligencia artificial para búsqueda académica]. https://consensus.app/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1030
+      },
+      "titulo_para_comparacion": "Consensus [Herramienta de inteligencia artificial para búsqueda académica]. https://consensus.app/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3A-10",
+      "unidad": 3,
+      "subunidad": "3A",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "Ought. (2025). *Elicit* [Herramienta de inteligencia artificial para investigación]. https://elicit.com/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1040
+      },
+      "titulo_para_comparacion": "Elicit [Herramienta de inteligencia artificial para investigación]. https://elicit.com/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3B-01",
+      "unidad": 3,
+      "subunidad": "3B",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "Morin, E. (1990). *Introducción al pensamiento complejo*. Gedisa.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1076
+      },
+      "titulo_para_comparacion": "Introducción al pensamiento complejo. Gedisa",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-002",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Introducción al pensamiento complejo"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-002",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Introducción al pensamiento complejo"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3B-02",
+      "unidad": 3,
+      "subunidad": "3B",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "Vélez Cardona, W. (2014). *Hacia una docencia transdisciplinaria*. Universidad de Puerto Rico.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1086
+      },
+      "titulo_para_comparacion": "Hacia una docencia transdisciplinaria. Universidad de Puerto Rico",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3B-03",
+      "unidad": 3,
+      "subunidad": "3B",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "Mohamed, S., Png, M.-T., & Isaac, W. (2020). Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence. *Philosophy & Technology, 33*(4), 659–684.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1096
+      },
+      "titulo_para_comparacion": "Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence. Philosophy & Technology, 33(4), 659–684",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3B-04",
+      "unidad": 3,
+      "subunidad": "3B",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "Morin, E. (1999). *Los siete saberes necesarios para la educación del futuro*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1108
+      },
+      "titulo_para_comparacion": "Los siete saberes necesarios para la educación del futuro. UNESCO",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-003",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 94.2,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Los siete saberes necesarios para la educación del futuro"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-003",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 94.2,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Los siete saberes necesarios para la educación del futuro"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3B-05",
+      "unidad": 3,
+      "subunidad": "3B",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "Vélez Cardona, W., & Villanueva Gómez, E. (2024). The decolonial transdisciplinarity: A challenge for which the General Studies are not prepared. *AULA Journal of Humanities and Social Sciences, 71*(2), 10.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1118
+      },
+      "titulo_para_comparacion": "The decolonial transdisciplinarity: A challenge for which the General Studies are not prepared. AULA Journal of Humanities and Social Sciences, 71(2), 10",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3B-06",
+      "unidad": 3,
+      "subunidad": "3B",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "Birhane, A. (2021). Algorithmic colonization of Africa. *SCRIPTed, 18*(2), 389–409.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1128
+      },
+      "titulo_para_comparacion": "Algorithmic colonization of Africa. SCRIPTed, 18(2), 389–409",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-058",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 76.4,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Algorithmic colonization of Africa"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3B-07",
+      "unidad": 3,
+      "subunidad": "3B",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Kothari, A., Salleh, A., Escobar, A., Demaria, F., & Acosta, A. (Eds.). (2019). *Pluriverse: A post-development dictionary*. Authors UpFront.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1140
+      },
+      "titulo_para_comparacion": "Pluriverse: A post-development dictionary. Authors UpFront",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3B-08",
+      "unidad": 3,
+      "subunidad": "3B",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "López, A. I., & Feliú Mójer, M. I. (2025). *Reflexivity: A tool for inclusive science communication*. Ciencia Puerto Rico.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1150
+      },
+      "titulo_para_comparacion": "Reflexivity: A tool for inclusive science communication. Ciencia Puerto Rico",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3B-09",
+      "unidad": 3,
+      "subunidad": "3B",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "Perplexity AI. (2025). *Perplexity AI* [Buscador en Internet y modelo de lenguaje con inteligencia artificial]. https://www.perplexity.ai/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1162
+      },
+      "titulo_para_comparacion": "Perplexity AI [Buscador en Internet y modelo de lenguaje con inteligencia artificial]. https://www.perplexity.ai/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3B-10",
+      "unidad": 3,
+      "subunidad": "3B",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "NotebookLM. (2025). *NotebookLM* [Herramienta de inteligencia artificial para organización y consulta de fuentes]. https://notebooklm.google/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1172
+      },
+      "titulo_para_comparacion": "NotebookLM [Herramienta de inteligencia artificial para organización y consulta de fuentes]. https://notebooklm.google/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3C-01",
+      "unidad": 3,
+      "subunidad": "3C",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "Keil, F., & Stein, M. (2025). *Opportunities and risks of using AI technologies in transdisciplinary research*. Institute for Social-Ecological Research.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1207
+      },
+      "titulo_para_comparacion": "Opportunities and risks of using AI technologies in transdisciplinary research. Institute for Social-Ecological Research",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-052",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 70.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Opportunities and risks of using AI in transdisciplinary research"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-059",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 79.2,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Opportunities and risks of using AI technologies in transdisciplinary research"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3C-02",
+      "unidad": 3,
+      "subunidad": "3C",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "UNESCO. (2023). *Guidance for generative AI in education and research*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1217
+      },
+      "titulo_para_comparacion": "Guidance for generative AI in education and research. UNESCO",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-018",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 93.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Guidance for generative AI in education and research"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-048",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 93.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Guidance for generative AI in education and research"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3C-03",
+      "unidad": 3,
+      "subunidad": "3C",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "National Institute of Standards and Technology. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*. U.S. Department of Commerce.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1227
+      },
+      "titulo_para_comparacion": "Artificial Intelligence Risk Management Framework (AI RMF 1.0). U.S. Department of Commerce",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3C-04",
+      "unidad": 3,
+      "subunidad": "3C",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "The Turing Way Community. (2025). *The Turing Way: A handbook for reproducible, ethical and collaborative research*. Zenodo.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1239
+      },
+      "titulo_para_comparacion": "The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3C-05",
+      "unidad": 3,
+      "subunidad": "3C",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "Messeri, L., & Crockett, M. J. (2024). Artificial intelligence and illusions of understanding in scientific research. *Nature, 627*(8002), 49–58. https://doi.org/10.1038/s41586-024-07146-0",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1249
+      },
+      "titulo_para_comparacion": "Artificial intelligence and illusions of understanding in scientific research. Nature, 627(8002), 49–58. https://doi.org/10.1038/s41586-024-07146-0",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3C-06",
+      "unidad": 3,
+      "subunidad": "3C",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "European Commission. (2019). *Ethics guidelines for trustworthy artificial intelligence*. European Commission.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1259
+      },
+      "titulo_para_comparacion": "Ethics guidelines for trustworthy artificial intelligence. European Commission",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3C-07",
+      "unidad": 3,
+      "subunidad": "3C",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Cockburn, J., et al. (2018). Toward place-based research to support social-ecological stewardship. *Sustainability, 10*, 1434.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1271
+      },
+      "titulo_para_comparacion": "Toward place-based research to support social-ecological stewardship. Sustainability, 10, 1434",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3C-08",
+      "unidad": 3,
+      "subunidad": "3C",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "Martínez Heredia, K. M., & Soto Molina, J. E. (2024). Transformación educativa a través de la transdisciplinariedad: Una ruta hacia la innovación curricular. *EDUCARE ET COMUNICARE. Revista Científica de la Facultad de Humanidades, 12*(2), 76–89.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1281
+      },
+      "titulo_para_comparacion": "Transformación educativa a través de la transdisciplinariedad: Una ruta hacia la innovación curricular. EDUCARE ET COMUNICARE. Revista Científica de la Facultad de Humanidades, 12(2), 76–89",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3C-09",
+      "unidad": 3,
+      "subunidad": "3C",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "SciSpace. (2025). *SciSpace* [Herramienta de inteligencia artificial para lectura y explicación de artículos académicos]. https://typeset.io/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1293
+      },
+      "titulo_para_comparacion": "SciSpace [Herramienta de inteligencia artificial para lectura y explicación de artículos académicos]. https://typeset.io/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-3C-10",
+      "unidad": 3,
+      "subunidad": "3C",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "Explainpaper. (2025). *Explainpaper* [Herramienta de inteligencia artificial para explicación de artículos académicos]. https://www.explainpaper.com/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1303
+      },
+      "titulo_para_comparacion": "Explainpaper [Herramienta de inteligencia artificial para explicación de artículos académicos]. https://www.explainpaper.com/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4A-01",
+      "unidad": 4,
+      "subunidad": "4A",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "Google PAIR. (2019). *People + AI Guidebook*. Google. https://pair.withgoogle.com/guidebook/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1361
+      },
+      "titulo_para_comparacion": "People + AI Guidebook. Google. https://pair.withgoogle.com/guidebook/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4A-02",
+      "unidad": 4,
+      "subunidad": "4A",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "Epstein, Z., Hertzmann, A., Akten, M., Farid, H., Fjeld, J., Frank, M. R., Groh, M., Herman, L., Leach, N., Mahari, R., Pentland, A. S., Russakovsky, O., Schroeder, H., & Smith, A. (2023). Art and the science of generative AI. *Science, 380*(6650), 1110–1111. https://doi.org/10.1126/science.adh4451",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1371
+      },
+      "titulo_para_comparacion": "Art and the science of generative AI. Science, 380(6650), 1110–1111. https://doi.org/10.1126/science.adh4451",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4A-03",
+      "unidad": 4,
+      "subunidad": "4A",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "CAST. (2024). *Universal Design for Learning Guidelines 3.0*. CAST.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1381
+      },
+      "titulo_para_comparacion": "Universal Design for Learning Guidelines 3.0. CAST",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4A-04",
+      "unidad": 4,
+      "subunidad": "4A",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "UNESCO. (2023). *Guidance for generative AI in education and research*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1393
+      },
+      "titulo_para_comparacion": "Guidance for generative AI in education and research. UNESCO",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-018",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 93.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Guidance for generative AI in education and research"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-048",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 93.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Guidance for generative AI in education and research"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4A-05",
+      "unidad": 4,
+      "subunidad": "4A",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "Bozkurt, A. (2023). Generative AI, synthetic contents, open educational resources (OER), and open educational practices (OEP): A new front in the openness landscape. *Open Praxis, 15*(3), 178–184.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1403
+      },
+      "titulo_para_comparacion": "Generative AI, synthetic contents, open educational resources (OER), and open educational practices (OEP): A new front in the openness landscape. Open Praxis, 15(3), 178–184",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4A-06",
+      "unidad": 4,
+      "subunidad": "4A",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "Picard, R. (1997). *Affective computing*. MIT Press.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1413
+      },
+      "titulo_para_comparacion": "Affective computing. MIT Press",
+      "estado_cruce_ba": "con_candidatos_probables",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-026",
+          "estado": "candidato_semantico",
+          "similitud_titulo": 79.2,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Affective computing"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4A-07",
+      "unidad": 4,
+      "subunidad": "4A",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Morin, E. (1999). *Los siete saberes necesarios para la educación del futuro*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1425
+      },
+      "titulo_para_comparacion": "Los siete saberes necesarios para la educación del futuro. UNESCO",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-003",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 94.2,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Los siete saberes necesarios para la educación del futuro"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-003",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 94.2,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Los siete saberes necesarios para la educación del futuro"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4A-08",
+      "unidad": 4,
+      "subunidad": "4A",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "López, A. I., & Feliú Mójer, M. I. (2025). *Reflexivity: A tool for inclusive science communication*. Ciencia Puerto Rico.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1435
+      },
+      "titulo_para_comparacion": "Reflexivity: A tool for inclusive science communication. Ciencia Puerto Rico",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4A-09",
+      "unidad": 4,
+      "subunidad": "4A",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "ElevenLabs. (2025). *ElevenLabs* [Plataforma de inteligencia artificial para generación de voz]. https://elevenlabs.io/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1447
+      },
+      "titulo_para_comparacion": "ElevenLabs [Plataforma de inteligencia artificial para generación de voz]. https://elevenlabs.io/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4A-10",
+      "unidad": 4,
+      "subunidad": "4A",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "OpenAI. (2025). *ChatGPT* [Modelo de lenguaje con inteligencia artificial]. https://chat.openai.com/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1457
+      },
+      "titulo_para_comparacion": "ChatGPT [Modelo de lenguaje con inteligencia artificial]. https://chat.openai.com/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4B-01",
+      "unidad": 4,
+      "subunidad": "4B",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "Hugging Face. (s. f.). *The Hugging Face course*. Hugging Face. https://huggingface.co/learn",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1493
+      },
+      "titulo_para_comparacion": "Hugging Face. (s. f.). The Hugging Face course. Hugging Face. https://huggingface.co/learn",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4B-02",
+      "unidad": 4,
+      "subunidad": "4B",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "Google Developers. (s. f.). *Introduction to responsible AI*. Google for Developers.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1503
+      },
+      "titulo_para_comparacion": "Google Developers. (s. f.). Introduction to responsible AI. Google for Developers",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4B-03",
+      "unidad": 4,
+      "subunidad": "4B",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "Mollick, E. R., & Mollick, L. (2023). *Assigning AI: Seven approaches for students, with prompts*. SSRN.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1513
+      },
+      "titulo_para_comparacion": "Assigning AI: Seven approaches for students, with prompts. SSRN",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4B-04",
+      "unidad": 4,
+      "subunidad": "4B",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "Lee, I., et al. (2021). AI literacy education framework. *Computers and Education*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1525
+      },
+      "titulo_para_comparacion": "AI literacy education framework. Computers and Education",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-025",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 72.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI literacy education framework"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4B-05",
+      "unidad": 4,
+      "subunidad": "4B",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "Long, D., & Magerko, B. (2020). What is AI literacy? *Proceedings of the CHI Conference on Human Factors in Computing Systems*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1535
+      },
+      "titulo_para_comparacion": "What is AI literacy? Proceedings of the CHI Conference on Human Factors in Computing Systems",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-024",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 100.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "What is AI literacy? Proceedings of the CHI Conference on Human Factors in Computing Systems"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4B-06",
+      "unidad": 4,
+      "subunidad": "4B",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "Gartner, Inc. (2024). *Gartner identifies the top 10 strategic technology trends for 2025*. Gartner.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1545
+      },
+      "titulo_para_comparacion": "Gartner identifies the top 10 strategic technology trends for 2025. Gartner",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4B-07",
+      "unidad": 4,
+      "subunidad": "4B",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Vélez Cardona, W. (2014). *Hacia una docencia transdisciplinaria*. Universidad de Puerto Rico.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1557
+      },
+      "titulo_para_comparacion": "Hacia una docencia transdisciplinaria. Universidad de Puerto Rico",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4B-08",
+      "unidad": 4,
+      "subunidad": "4B",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "Crawford, K. (2021). *Atlas of AI: Power, politics, and the planetary costs of artificial intelligence*. Yale University Press.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1567
+      },
+      "titulo_para_comparacion": "Atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-053",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 87.5,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Atlas of AI: Power, politics, and the planetary costs of artificial intelligence"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4B-09",
+      "unidad": 4,
+      "subunidad": "4B",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "Anthropic. (2025). *Claude* [Modelo de lenguaje con inteligencia artificial]. https://claude.ai/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1579
+      },
+      "titulo_para_comparacion": "Claude [Modelo de lenguaje con inteligencia artificial]. https://claude.ai/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4B-10",
+      "unidad": 4,
+      "subunidad": "4B",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "Hugging Face. (s. f.). *Transformers documentation*. Hugging Face. https://huggingface.co/docs/transformers",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1589
+      },
+      "titulo_para_comparacion": "Hugging Face. (s. f.). Transformers documentation. Hugging Face. https://huggingface.co/docs/transformers",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4C-01",
+      "unidad": 4,
+      "subunidad": "4C",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "National Institute of Standards and Technology. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*. U.S. Department of Commerce.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1624
+      },
+      "titulo_para_comparacion": "Artificial Intelligence Risk Management Framework (AI RMF 1.0). U.S. Department of Commerce",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4C-02",
+      "unidad": 4,
+      "subunidad": "4C",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "European Commission. (2019). *Ethics guidelines for trustworthy artificial intelligence*. European Commission.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1634
+      },
+      "titulo_para_comparacion": "Ethics guidelines for trustworthy artificial intelligence. European Commission",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4C-03",
+      "unidad": 4,
+      "subunidad": "4C",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "The Turing Way Community. (2025). *The Turing Way: A handbook for reproducible, ethical and collaborative research*. Zenodo.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1644
+      },
+      "titulo_para_comparacion": "The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4C-04",
+      "unidad": 4,
+      "subunidad": "4C",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "UNESCO. (2021). *Recomendación sobre la ética de la inteligencia artificial*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1656
+      },
+      "titulo_para_comparacion": "Recomendación sobre la ética de la inteligencia artificial. UNESCO",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4C-05",
+      "unidad": 4,
+      "subunidad": "4C",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "Bender, E., Gebru, T., McMillan-Major, A., & Mitchell, M. (2021). On the dangers of stochastic parrots: Can language models be too big? *Proceedings of the ACM Conference on Fairness, Accountability, and Transparency*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1666
+      },
+      "titulo_para_comparacion": "On the dangers of stochastic parrots: Can language models be too big? Proceedings of the ACM Conference on Fairness, Accountability, and Transparency",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-057",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 39.8,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "On the dangers of stochastic parrots"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4C-06",
+      "unidad": 4,
+      "subunidad": "4C",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "Mittelstadt, B. (2019). Principles alone cannot guarantee ethical AI. *Nature Machine Intelligence*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1676
+      },
+      "titulo_para_comparacion": "Principles alone cannot guarantee ethical AI. Nature Machine Intelligence",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-060",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 75.9,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Principles alone cannot guarantee ethical AI"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4C-07",
+      "unidad": 4,
+      "subunidad": "4C",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Roose, K. (2021). *Futureproof: 9 rules for humans in the age of automation*. Random House.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1688
+      },
+      "titulo_para_comparacion": "Futureproof: 9 rules for humans in the age of automation. Random House",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4C-08",
+      "unidad": 4,
+      "subunidad": "4C",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "Mohamed, S., Png, M.-T., & Isaac, W. (2020). Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence. *Philosophy & Technology, 33*(4), 659–684.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1698
+      },
+      "titulo_para_comparacion": "Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence. Philosophy & Technology, 33(4), 659–684",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4C-09",
+      "unidad": 4,
+      "subunidad": "4C",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "SciSpace. (2025). *SciSpace* [Herramienta de inteligencia artificial para lectura y explicación de artículos académicos]. https://typeset.io/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1710
+      },
+      "titulo_para_comparacion": "SciSpace [Herramienta de inteligencia artificial para lectura y explicación de artículos académicos]. https://typeset.io/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-4C-10",
+      "unidad": 4,
+      "subunidad": "4C",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "Perplexity AI. (2025). *Perplexity AI* [Buscador en Internet y modelo de lenguaje con inteligencia artificial]. https://www.perplexity.ai/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1720
+      },
+      "titulo_para_comparacion": "Perplexity AI [Buscador en Internet y modelo de lenguaje con inteligencia artificial]. https://www.perplexity.ai/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5A-01",
+      "unidad": 5,
+      "subunidad": "5A",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "OECD. (2023). *OECD Digital Education Outlook 2023: Towards an effective digital education ecosystem*. OECD Publishing. https://doi.org/10.1787/c74f03de-en",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1784
+      },
+      "titulo_para_comparacion": "OECD Digital Education Outlook 2023: Towards an effective digital education ecosystem. OECD Publishing. https://doi.org/10.1787/c74f03de-en",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5A-02",
+      "unidad": 5,
+      "subunidad": "5A",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "UNESCO. (2024). *AI competency framework for students*. UNESCO. https://doi.org/10.54675/JKJB9835",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1794
+      },
+      "titulo_para_comparacion": "AI competency framework for students. UNESCO. https://doi.org/10.54675/JKJB9835",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-021",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for students"
+        },
+        {
+          "destino_id": "CAT-BA-038",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for students"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-037",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for students"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5A-03",
+      "unidad": 5,
+      "subunidad": "5A",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "Rockström, J., Gupta, J., Qin, D., Lade, S. J., Abrams, J. F., Andersen, L. S., et al. (2023). Safe and just Earth system boundaries. *Nature, 619*, 102–111. https://doi.org/10.1038/s41586-023-06083-8",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1804
+      },
+      "titulo_para_comparacion": "Safe and just Earth system boundaries. Nature, 619, 102–111. https://doi.org/10.1038/s41586-023-06083-8",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5A-04",
+      "unidad": 5,
+      "subunidad": "5A",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "Vinuesa, R., Azizpour, H., Leite, I., Balaam, M., Dignum, V., Domisch, S., Felländer, A., Langhans, S. D., Tegmark, M., & Fuso Nerini, F. (2020). The role of artificial intelligence in achieving the Sustainable Development Goals. *Nature Communications, 11*, Article 233. https://doi.org/10.1038/s41467-019-14108-y",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1816
+      },
+      "titulo_para_comparacion": "The role of artificial intelligence in achieving the Sustainable Development Goals. Nature Communications, 11, Article 233. https://doi.org/10.1038/s41467-019-14108-y",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5A-05",
+      "unidad": 5,
+      "subunidad": "5A",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "Meadows, D. (1998). *Indicators and information systems for sustainable development*. The Sustainability Institute.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1826
+      },
+      "titulo_para_comparacion": "Indicators and information systems for sustainable development. The Sustainability Institute",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5A-06",
+      "unidad": 5,
+      "subunidad": "5A",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "Kania, J., Kramer, M., & Senge, P. (2018). *The water of systems change*. FSG.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1836
+      },
+      "titulo_para_comparacion": "The water of systems change. FSG",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5A-07",
+      "unidad": 5,
+      "subunidad": "5A",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Vélez Cardona, W. (2011). Una educación general transdisciplinaria para el fortalecimiento de la universidad. *Revista Umbral, 6*, 5–32.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1848
+      },
+      "titulo_para_comparacion": "Una educación general transdisciplinaria para el fortalecimiento de la universidad. Revista Umbral, 6, 5–32",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5A-08",
+      "unidad": 5,
+      "subunidad": "5A",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "Kothari, A., Salleh, A., Escobar, A., Demaria, F., & Acosta, A. (Eds.). (2019). *Pluriverse: A post-development dictionary*. Authors UpFront.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1858
+      },
+      "titulo_para_comparacion": "Pluriverse: A post-development dictionary. Authors UpFront",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5A-09",
+      "unidad": 5,
+      "subunidad": "5A",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "Perplexity AI. (2025). *Perplexity AI* [Buscador en Internet y modelo de lenguaje con inteligencia artificial]. https://www.perplexity.ai/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1870
+      },
+      "titulo_para_comparacion": "Perplexity AI [Buscador en Internet y modelo de lenguaje con inteligencia artificial]. https://www.perplexity.ai/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5A-10",
+      "unidad": 5,
+      "subunidad": "5A",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "NotebookLM. (2025). *NotebookLM* [Herramienta de inteligencia artificial para organización y consulta de fuentes]. https://notebooklm.google/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1880
+      },
+      "titulo_para_comparacion": "NotebookLM [Herramienta de inteligencia artificial para organización y consulta de fuentes]. https://notebooklm.google/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5B-01",
+      "unidad": 5,
+      "subunidad": "5B",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "UNESCO. (2023). *Guidance for generative AI in education and research*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1914
+      },
+      "titulo_para_comparacion": "Guidance for generative AI in education and research. UNESCO",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-018",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 93.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Guidance for generative AI in education and research"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-048",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 93.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Guidance for generative AI in education and research"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5B-02",
+      "unidad": 5,
+      "subunidad": "5B",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "OECD. (2024). *OECD AI Principles*. OECD.AI Policy Observatory.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1924
+      },
+      "titulo_para_comparacion": "OECD AI Principles. OECD.AI Policy Observatory",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5B-03",
+      "unidad": 5,
+      "subunidad": "5B",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "National Institute of Standards and Technology. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*. U.S. Department of Commerce.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1934
+      },
+      "titulo_para_comparacion": "Artificial Intelligence Risk Management Framework (AI RMF 1.0). U.S. Department of Commerce",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5B-04",
+      "unidad": 5,
+      "subunidad": "5B",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "The Turing Way Community. (2025). *The Turing Way: A handbook for reproducible, ethical and collaborative research*. Zenodo.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1946
+      },
+      "titulo_para_comparacion": "The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5B-05",
+      "unidad": 5,
+      "subunidad": "5B",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "European Union. (2024). *Artificial Intelligence Act, Article 4: AI literacy*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1956
+      },
+      "titulo_para_comparacion": "Artificial Intelligence Act, Article 4: AI literacy",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5B-06",
+      "unidad": 5,
+      "subunidad": "5B",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "UNESCO. (2024). *AI competency framework for teachers*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1966
+      },
+      "titulo_para_comparacion": "AI competency framework for teachers. UNESCO",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-022",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for teachers"
+        },
+        {
+          "destino_id": "CAT-BA-037",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for teachers"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-036",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 91.1,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "AI competency framework for teachers"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5B-07",
+      "unidad": 5,
+      "subunidad": "5B",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Cockburn, J., Cundill, G., Shackleton, S., Rouget, M., Zwinkels, M., Cornelius, S. F., Metcalfe, L., & van den Broeck, D. (2018). Toward place-based research to support social-ecological stewardship. *Sustainability, 10*(5), 1434. https://doi.org/10.3390/su10051434",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1978
+      },
+      "titulo_para_comparacion": "Toward place-based research to support social-ecological stewardship. Sustainability, 10(5), 1434. https://doi.org/10.3390/su10051434",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5B-08",
+      "unidad": 5,
+      "subunidad": "5B",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "Martínez Heredia, K. M., & Soto Molina, J. E. (2024). Transformación educativa a través de la transdisciplinariedad: Una ruta hacia la innovación curricular. *EDUCARE ET COMUNICARE. Revista Científica de la Facultad de Humanidades, 12*(2), 76–89.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 1988
+      },
+      "titulo_para_comparacion": "Transformación educativa a través de la transdisciplinariedad: Una ruta hacia la innovación curricular. EDUCARE ET COMUNICARE. Revista Científica de la Facultad de Humanidades, 12(2), 76–89",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5B-09",
+      "unidad": 5,
+      "subunidad": "5B",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "OpenAI. (2025). *ChatGPT* [Modelo de lenguaje con inteligencia artificial]. https://chat.openai.com/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 2000
+      },
+      "titulo_para_comparacion": "ChatGPT [Modelo de lenguaje con inteligencia artificial]. https://chat.openai.com/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5B-10",
+      "unidad": 5,
+      "subunidad": "5B",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "Anthropic. (2025). *Claude* [Modelo de lenguaje con inteligencia artificial]. https://claude.ai/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 2010
+      },
+      "titulo_para_comparacion": "Claude [Modelo de lenguaje con inteligencia artificial]. https://claude.ai/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5C-01",
+      "unidad": 5,
+      "subunidad": "5C",
+      "rol": "obligatoria",
+      "posicion": 1,
+      "cita_original": "UNESCO. (2021). *Recomendación sobre la ética de la inteligencia artificial*. UNESCO.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 2047
+      },
+      "titulo_para_comparacion": "Recomendación sobre la ética de la inteligencia artificial. UNESCO",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5C-02",
+      "unidad": 5,
+      "subunidad": "5C",
+      "rol": "obligatoria",
+      "posicion": 2,
+      "cita_original": "Vinuesa, R., Azizpour, H., Leite, I., Balaam, M., Dignum, V., Domisch, S., Felländer, A., Langhans, S. D., Tegmark, M., & Fuso Nerini, F. (2020). The role of artificial intelligence in achieving the Sustainable Development Goals. *Nature Communications, 11*, Article 233. https://doi.org/10.1038/s41467-019-14108-y",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 2057
+      },
+      "titulo_para_comparacion": "The role of artificial intelligence in achieving the Sustainable Development Goals. Nature Communications, 11, Article 233. https://doi.org/10.1038/s41467-019-14108-y",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5C-03",
+      "unidad": 5,
+      "subunidad": "5C",
+      "rol": "obligatoria",
+      "posicion": 3,
+      "cita_original": "López, A. I., & Feliú Mójer, M. I. (2025). *Reflexivity: A tool for inclusive science communication*. Ciencia Puerto Rico.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 2067
+      },
+      "titulo_para_comparacion": "Reflexivity: A tool for inclusive science communication. Ciencia Puerto Rico",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5C-04",
+      "unidad": 5,
+      "subunidad": "5C",
+      "rol": "profundizacion",
+      "posicion": 4,
+      "cita_original": "Barbierato, E., & Gatti, A. (2024). Toward green AI: A methodological survey of the scientific literature. *IEEE Access, 12*, 23989–24015.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 2079
+      },
+      "titulo_para_comparacion": "Toward green AI: A methodological survey of the scientific literature. IEEE Access, 12, 23989–24015",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-049",
+          "estado": "candidato_semantico",
+          "similitud_titulo": 27.5,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Toward green AI"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-058",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 84.0,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Toward Green AI: A methodological survey of the scientific literature"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5C-05",
+      "unidad": 5,
+      "subunidad": "5C",
+      "rol": "profundizacion",
+      "posicion": 5,
+      "cita_original": "Schwartz, R., Dodge, J., Smith, N., & Etzioni, O. (2020). Green AI. *Communications of the ACM*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 2089
+      },
+      "titulo_para_comparacion": "Green AI. Communications of the ACM",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5C-06",
+      "unidad": 5,
+      "subunidad": "5C",
+      "rol": "profundizacion",
+      "posicion": 6,
+      "cita_original": "Mittelstadt, B. (2019). Principles alone cannot guarantee ethical AI. *Nature Machine Intelligence*.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 2099
+      },
+      "titulo_para_comparacion": "Principles alone cannot guarantee ethical AI. Nature Machine Intelligence",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-060",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 75.9,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Principles alone cannot guarantee ethical AI"
+        }
+      ],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5C-07",
+      "unidad": 5,
+      "subunidad": "5C",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 7,
+      "cita_original": "Keil, F., & Stein, M. (2025). *Opportunities and risks of using AI technologies in transdisciplinary research*. Institute for Social-Ecological Research.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 2111
+      },
+      "titulo_para_comparacion": "Opportunities and risks of using AI technologies in transdisciplinary research. Institute for Social-Ecological Research",
+      "estado_cruce_ba": "con_candidatos_fuertes",
+      "candidatos_cat": [
+        {
+          "destino_id": "CAT-BA-052",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 70.7,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Opportunities and risks of using AI in transdisciplinary research"
+        }
+      ],
+      "candidatos_fic": [
+        {
+          "destino_id": "FIC-BA-059",
+          "estado": "coincidencia_interna_fuerte",
+          "similitud_titulo": 79.2,
+          "similitud_autoria": 100,
+          "anio_coincide": true,
+          "titulo_destino": "Opportunities and risks of using AI technologies in transdisciplinary research"
+        }
+      ],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5C-08",
+      "unidad": 5,
+      "subunidad": "5C",
+      "rol": "alterna_transdisciplinaria",
+      "posicion": 8,
+      "cita_original": "Vélez Cardona, W., & Villanueva Gómez, E. (2024). The decolonial transdisciplinarity: A challenge for which the General Studies are not prepared. *AULA Journal of Humanities and Social Sciences, 71*(2), 10.",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 2121
+      },
+      "titulo_para_comparacion": "The decolonial transdisciplinarity: A challenge for which the General Studies are not prepared. AULA Journal of Humanities and Social Sciences, 71(2), 10",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5C-09",
+      "unidad": 5,
+      "subunidad": "5C",
+      "rol": "herramienta_portal",
+      "posicion": 9,
+      "cita_original": "SciSpace. (2025). *SciSpace* [Herramienta de inteligencia artificial para lectura y explicación de artículos académicos]. https://typeset.io/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 2133
+      },
+      "titulo_para_comparacion": "SciSpace [Herramienta de inteligencia artificial para lectura y explicación de artículos académicos]. https://typeset.io/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    },
+    {
+      "asignacion_id": "CUR-5C-10",
+      "unidad": 5,
+      "subunidad": "5C",
+      "rol": "herramienta_portal",
+      "posicion": 10,
+      "cita_original": "Consensus. (2025). *Consensus* [Herramienta de inteligencia artificial para búsqueda académica]. https://consensus.app/",
+      "fuente": {
+        "archivo": "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+        "linea": 2143
+      },
+      "titulo_para_comparacion": "Consensus [Herramienta de inteligencia artificial para búsqueda académica]. https://consensus.app/",
+      "estado_cruce_ba": "sin_coincidencia_en_corpus_ba",
+      "candidatos_cat": [],
+      "candidatos_fic": [],
+      "identidad_de_obra_resuelta": false
+    }
+  ]
+}
