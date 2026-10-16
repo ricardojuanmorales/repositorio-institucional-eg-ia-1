@@ -10,7 +10,7 @@
 | G-02 | Patrimonio CAT/FIC/MAT/CUR y originales preservados; sin fusiones automáticas | Paquete G2-R2 y cierre INTEGRATE; respaldo histórico | PASS documentado |
 | G-03 | Modo INTEGRATE, frameworkVersion 5.2.0, niveles y perfiles compatibles con esquema | `22_INTEGRATE_FRAMEWORK_V5_2/Activacion_Framework_V5_2/project-package-activado.json` | PASS documental; ejecutar importación nativa al reabrir para prueba funcional actual |
 | G-04 | START/INTEGRATE declarados distintos con contrato común; activación mínima compatible | Contrato V5 candidato + ficha `Activacion_Minima_RIB_EGIA_V5_2_2026-10-16.md` | PASS conceptual |
-| G-05 | README usuario ilustrado actualiza estado, estructura, documentación y ruta de inicio | `README.md` | Verificar en cierre |
+| G-05 | README usuario ilustrado actualiza estado, estructura, documentación y ruta de inicio | `README.md` en main actualizado | PASS remoto |
 | G-06 | Entrega local reproducible sin sobrescribir trabajo local | ZIP cierre + instrucciones `git pull --ff-only` y verificación | PENDIENTE ejecución por titular en Mac |
 | G-07 | No se afirma certificación N4, despliegue ni equivalencia app/experto | Esta acta y README | PASS delimitación |
 | G-08 | Deuda profunda N3/N4, Marco Mundi, TSR, anexos dialógicos y laboratorio vivo explícita | Este gate | PASS registro |
