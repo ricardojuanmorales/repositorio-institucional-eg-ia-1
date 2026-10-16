@@ -98,6 +98,12 @@ La macroestructura `00–21 + 99` sigue la del Framework maestro. El cartapacio 
 
 La estructura guía, pero no obliga a completar cada cartapacio antes de iniciar trabajo significativo.
 
+## 📋 Informe integral de situación del proyecto
+
+Para comprender RIB-EG-IA **como unidad histórica y evolutiva**, no solo por su última sesión, está disponible el [Informe Ejecutivo Integral de Situación v0.1, candidato](18_DOCUMENTACION_ACTIVA/00_Estado_Situacion/2026-10-16_IEISP_RIB_EGIA_v0_1_CANDIDATO.md).
+
+El informe aplica dos [referencias metodológicas IEISP v0.2 adoptadas localmente](07_PLANTILLAS_Y_MODELOS/07_IEISP/README.md), que conservan en sus originales el estatus **candidato, no canónico universal**. La emisión RIB-EG-IA también está **pendiente de validación humana**, por lo que su dictamen es una recomendación editorial, no una aprobación institucional.
+
 ## 📍 ¿Dónde estamos hoy?
 
 ![Trayectoria documentada del proyecto y desarrollos pendientes](21_WIKI_DOCUMENTACION_HUMANA/Recursos_Visuales/README_RIB_EGIA/estado-proyecto.svg)
