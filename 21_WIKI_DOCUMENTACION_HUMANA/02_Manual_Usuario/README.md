@@ -22,3 +22,7 @@ Pendiente de poblar durante L1-A, L1-B, L1-C o fases posteriores según correspo
 - Usar Markdown para notas, fichas, protocolos y documentación viva.
 - Añadir front matter YAML cuando el documento sea parte del repositorio formal.
 - Registrar decisiones importantes en el Registro de Decisiones.
+
+## 📋 Informe Integral IEISP y Guía v0.0.0
+
+- [🧭 Guía general de acceso IEISP v0.0.0 (candidata)](Guia_General_Acceso_IEISP_RIB_EGIA_v0_0_0_CANDIDATA.md). Incluye enlaces a guías generales, acceso al repositorio y NotebookLM, clasificación del estado, categorías de siete figuras y DUA. Los archivos completos ilustrados en MD/Word y el ZIP TSR se entregan como expediente descargable aparte; no se presupone su publicación en este repositorio.
