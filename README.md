@@ -6,9 +6,37 @@
 **Adscripción:** Departamento de Ciencias Físicas, Facultad de Estudios Generales, Universidad de Puerto Rico en Río Piedras  
 **Línea estructural de origen:** v0.3 (2026-05-07)  
 **Último hito documentado:** INTEGRATE documental/técnico con Framework Genérico v5.2.0 (2026-10-15)  
-**Estado:** artefactos integrados y versionados en GitHub; operación académica y publicación aún no desplegadas.
+**Estado:** **activación mínima INTEGRATE v5.2 documentada** y disponible para comenzar trabajo académico supervisado; aplicación bibliográfica propia y publicación aún no desplegadas.
 
 > La autoría académica indicada no implica aval, certificación o publicación oficial de la Universidad de Puerto Rico.
+
+## 🚪 Elige tu puerta de entrada
+
+**¿Quieres empezar a trabajar?** Lee [Activación mínima](22_INTEGRATE_FRAMEWORK_V5_2/Activacion_Minima_RIB_EGIA_V5_2_2026-10-16.md), consulta la [instantánea portable activada](22_INTEGRATE_FRAMEWORK_V5_2/Activacion_Framework_V5_2/project-package-activado.json) y sigue el próximo bloque aprobado de trabajo académico. No necesitas completar un programa exhaustivo de entrevista ni desarrollar primero las aplicaciones.
+
+**¿Quieres verificar la activación?** Consulta el [Gate ACT-01](00_CONTROL_MAESTRO/04_Primers_Continuidad/GATE_ACT_CIERRE_Framework_V5_2_2026-10-16.md). La sincronización del cartapacio local debe confirmarla el titular.
+
+**¿Quieres comprender el marco rector?** Abre el [Framework Genérico v5.2](https://github.com/ricardojuanmorales/framework-proyecto-generico-ia-1) y su [aplicación](https://ricardojuanmorales.github.io/framework-proyecto-generico-ia-1/v5/). RIB-EG-IA usa **INTEGRATE** para un proyecto preexistente; **START** inicia proyectos nuevos y **AUDIT** contrasta su estado.
+
+**¿Te interesa el futuro laboratorio vivo?** El patrón de ingeniería es [AI StoryLab 1](https://github.com/ricardojuanmorales/ai-storylab-1) (SDD, local-first, seguridad por diseño, CI/CD), mientras [Materia Mundi](https://ricardojuanmorales.github.io/materia-mundi-101/) inspira un portal de acceso a varias aplicaciones. **Marco Mundi** es una metodología pedagógica transversal opcional, no un cuarto perfil ni un gate obligatorio de activación.
+
+### Lo esencial del Framework
+
+- **El problema es el centro**. PH (Programador Humanista), IT (Investigador Transdisciplinario) y AT (Artista Transdisciplinario) son lentes invocables; su combinación no demuestra automáticamente Caleidoscopio.
+- **N1–N4** son hipótesis de madurez situadas y revisables; N3 del proyecto y N4 declarada en autonomía no significan certificación.
+- **El humano autoriza lo material**. La IA propone y contrasta; la máquina ejecuta y registra evidencia.
+- **PORTAFOLIO** registra hitos, decisiones, reflexiones, evidencias y transferencias; las reflexiones privadas no se envían automáticamente a GitHub.
+- **Transferencia reversible** significa preservar procedencia, sentido, transformaciones, límites y condiciones de retorno; su equivalencia app↔experto queda como deuda de investigación.
+
+### Estructura oficial y estructura propia
+
+Se conservan los **22 cartapacios oficiales `00_...` a `21_...`**, más `99_ARCHIVO_HISTORICO/`; su arquitectura de referencia está en el repositorio maestro del Framework. RIB-EG-IA añade `22_INTEGRATE_FRAMEWORK_V5_2/` como **extensión del proyecto**, sin afirmar que ha copiado todos los documentos internos, código, workflows ni recursos del repositorio maestro. Esta es equivalencia de macroestructura, no clonación del Framework.
+
+### Cartapacio local
+
+Si ya existe un clon Git en tu computadora, usa `git status` y `git pull --ff-only origin main` únicamente si no tienes cambios locales que deban protegerse. El paquete de cierre proporciona copia del artefacto de activación, ZIP portable, Gate y una guía; **la sincronización con tu Mac no puede declararse realizada desde ChatGPT**. Nunca sobrescribas tu trabajo local para igualarlo al remoto.
+
+---
 
 ## Propósito
 
@@ -101,6 +129,12 @@ El informe ejecutivo histórico aprobado por el autor existe como documento edit
 - `21_WIKI_DOCUMENTACION_HUMANA/`
 - `99_ARCHIVO_HISTORICO/`
 
+## Trabajo inmediato y deuda diferida
+
+**Trabajo inmediato:** continuar dentro del Framework con consulta y curaduría bibliográfica académica supervisada. El caso se seleccionará cuando comience el trabajo, no como condición de cierre de esta sesión.
+
+**Deuda diferida, no bloqueante:** entrevista profunda N3/N4, despliegue completo de Marco Mundi, equivalencia funcional y semántica aplicación↔experto, preservación de anexos dialógicos, TSR bidireccional y laboratorio vivo multiaplicación.
+
 ## Próxima fase
 
 La siguiente etapa es **operacionalizar el repositorio para uso académico**: acceso y consulta bibliográfica, curaduría de referencias y conflictos, revisión de derechos, criterios editoriales y preparación de publicación. No se requiere repetir los gates F0–G3 ya documentados.
@@ -116,4 +150,4 @@ La IA se ha utilizado como apoyo para análisis técnico, organización, pruebas
 
 ---
 
-*Actualizado: 15 de octubre de 2026. Este README describe el estado documentado, no promete funcionalidades aún no habilitadas.*
+*Actualizado: 16 de octubre de 2026. La activación mínima está documentada, no se declara desplegado un servicio ni acreditada una equivalencia no ensayada.*
