@@ -1,184 +1,162 @@
 # 📚 RIB-EG-IA
-## Repositorio Institucional de Colecciones Bibliográficas en Educación General e Inteligencia Artificial
+## Un patrimonio bibliográfico para pensar, investigar, enseñar y crear
 
-**Conocimiento · patrimonio · investigación · aprendizaje · transferencia responsable**
+![Horizonte de patrimonio bibliográfico, conexiones y comunidad](21_WIKI_DOCUMENTACION_HUMANA/Recursos_Visuales/README_RIB_EGIA/hero-patrimonio-conexiones.svg)
 
-> Una biblioteca es más que una lista de títulos: las fuentes adquieren valor cuando podemos interrogarlas, contextualizarlas, contrastarlas y volver sobre nuestras decisiones. RIB-EG-IA prepara ese espacio académico con apoyo de IA y juicio humano.
+**Colecciones · pensamiento transdisciplinario · Estudios Generales · inteligencia artificial responsable**
 
-**Autor y responsable académico:** Ricardo Juan Morales De Jesús, Ph.D.  
-**Departamento de Ciencias Físicas · Facultad de Estudios Generales · Universidad de Puerto Rico en Río Piedras**  
-**Origen documental:** v0.3 · **Framework:** v5.2.0 · **Modo:** `INTEGRATE` / `preserve_source`  
-**Estado (16-10-2026):** activación mínima registrada y respaldada; aplicación bibliográfica propia aún no desplegada.
+> Las bibliografías son mapas de conversaciones humanas. Este proyecto procura conservar sus fuentes, revelar relaciones, reconocer incertidumbres y facilitar nuevas preguntas desde la educación general.
 
-> La identificación académica del autor no constituye aval institucional formal de la Universidad de Puerto Rico.
+Bienvenidos al **Repositorio Institucional de Colecciones Bibliográficas en Educación General e Inteligencia Artificial (RIB-EG-IA)**. Es una iniciativa académica de documentación, investigación y curaduría bibliográfica que trabaja con el [Framework Genérico v5.2.0](https://github.com/ricardojuanmorales/framework-proyecto-generico-ia-1).
 
-## 🚪 Cinco puertas para orientarse
+**Responsable académico:** Ricardo Juan Morales De Jesús, Ph.D.  
+**Adscripción:** Departamento de Ciencias Físicas, Facultad de Estudios Generales, Universidad de Puerto Rico en Río Piedras.  
+**Situación documentada (16 de octubre de 2026):** patrimonio preservado, integración técnica Framework completada y activación mínima registrada. **La plataforma bibliográfica interactiva todavía no está desplegada.**
 
-| Quiero... | Empezar aquí |
+*Esta identificación académica no constituye por sí sola aprobación institucional de la Universidad de Puerto Rico.*
+
+## 🚪 Elige tu puerta de entrada
+
+| Tu interés | Comienza aquí |
 |---|---|
-| 🌱 **Comenzar el proyecto** | [Ficha de activación mínima](22_INTEGRATE_FRAMEWORK_V5_2/Activacion_Minima_RIB_EGIA_V5_2_2026-10-16.md) |
-| ✅ **Verificar si está listo** | [Gate formal ACT-01](00_CONTROL_MAESTRO/04_Primers_Continuidad/GATE_ACT_CIERRE_Framework_V5_2_2026-10-16.md) |
-| 🧳 **Examinar el paquete Framework** | [Instantánea JSON activada](22_INTEGRATE_FRAMEWORK_V5_2/Activacion_Framework_V5_2/project-package-activado.json) |
-| 🧭 **Comprender el método** | [Framework Genérico v5.2](https://github.com/ricardojuanmorales/framework-proyecto-generico-ia-1) · [Aplicación V5](https://ricardojuanmorales.github.io/framework-proyecto-generico-ia-1/v5/) |
-| 🕰️ **Reconstruir lo sucedido** | [Bitácora de cierre](00_CONTROL_MAESTRO/00_Bitacoras/Bitacora_Sesion_004_Cierre_INTEGRATE_Framework_V5_2_2026-10-15.md) · [Decisiones](00_CONTROL_MAESTRO/01_Decisiones/Registro_Decisiones_RIB_EGIA_v0_3.md) |
+| 🌱 **Descubrir el proyecto** | [Propósito y patrimonio](#-una-ecología-de-colecciones) |
+| 🔎 **Explorar cómo trabajamos** | [Investigación, tres lentes y curaduría](#-del-documento-a-la-pregunta) |
+| 🧭 **Comprender la arquitectura** | [Framework y organización](#-una-arquitectura-que-conserva-memoria) |
+| 📍 **Conocer el estado real** | [Avances y próximos horizontes](#-dónde-estamos-hoy) |
+| 🤝 **Orientarte para colaborar** | [Documentación y rutas de acceso](#-rutas-para-participar) |
 
-## 🧭 El problema está en el centro
+## 🌱 ¿Por qué existe?
 
-**RIB-EG-IA** preserva y relaciona bibliografía generalizada y anotada, matrices de pensamiento transdisciplinario y asignaciones curriculares para la enseñanza, investigación y creación en Estudios Generales.
+En Educación General, una obra rara vez vive en una sola disciplina: puede dialogar con ciencia, historia, filosofía, arte, tecnología y vida pública. El proyecto busca que esa riqueza no se pierda entre documentos aislados.
 
-No es todavía una plataforma interactiva de consulta desplegada; hoy es **un repositorio académico estructurado y un proyecto Framework activado documentalmente**.
+**Nuestro propósito** es organizar, preservar, relacionar y desarrollar colecciones bibliográficas para apoyar la enseñanza, la investigación y la creación transdisciplinaria. La IA puede asistir en organización y contraste, pero las decisiones bibliográficas, editoriales y de publicación permanecen bajo responsabilidad humana.
 
-```mermaid
-flowchart TD
-    P["📚 Problema bibliográfico situado"] --> IT["🟢 IT · Evidencia y procedencia"]
-    P --> PH["🔵 PH · Interoperabilidad y diseño"]
-    P --> AT["🟠 AT · Experiencias y representación"]
-    IT --> G["Juicio humano + contrastes"]
-    PH --> G
-    AT --> G
-    G --> PORT["Portafolio, decisiones y continuidad"]
-    PORT --> TSR["Transferencia reversible, previa revisión"]
-```
+### Cuatro escenas del proyecto
 
-**Las lentes son capacidades complementarias, no profesiones obligatorias.** La combinación PH+IT+AT no constituye por sí sola una emergencia Caleidoscopio.
+1. **Una fuente llega con historia.** Se conservan sus datos y procedencia, incluso cuando existen incertidumbres.
+2. **Una pregunta abre conexiones.** La obra dialoga con otros registros, unidades curriculares y enfoques disciplinares.
+3. **Las interpretaciones se contrastan.** Las coincidencias de identificadores no se confunden con pruebas de identidad.
+4. **La memoria permanece disponible.** Evidencias y decisiones pueden revisarse y transferirse con autorización.
 
-### 📖 Patrimonio con identidad propia
+## 📚 Una ecología de colecciones
 
-| Conjunto | Referencia documental | Precaución |
-|---|---|---|
-| **CAT** | 60 registros | No identificar automáticamente por código |
-| **FIC** | 60 fichas anotadas | Revisar atribuciones y correspondencias |
-| **MAT** | 60 entradas de matriz | Preservar relaciones originales |
-| **CUR** | 150 asignaciones curriculares | No equivalen a 150 obras distintas |
+![Mapa de las cuatro colecciones bibliográficas y sus conexiones académicas](21_WIKI_DOCUMENTACION_HUMANA/Recursos_Visuales/README_RIB_EGIA/mapa-colecciones.svg)
 
-Por ejemplo, `BA-004` presenta una colisión de identidad entre CAT y FIC. **Ninguna deduplicación o fusión automática está autorizada.** El patrimonio está conservado; la curaduría bibliográfica y la revisión de derechos continúan.
+| Conjunto | Contenido documental | Magnitud |
+|---|---|---:|
+| **CAT** | Entradas de catálogo | 60 |
+| **FIC** | Fichas de bibliografía anotada | 60 |
+| **MAT** | Registros y relaciones de matriz | 60 |
+| **CUR** | Asignaciones curriculares distribuidas en cinco unidades | 150 |
 
-## 🧬 Cómo participa del Framework Genérico
+**150 asignaciones CUR no son necesariamente 150 obras únicas.** Los conjuntos mantienen identidades separadas hasta verificar sus correspondencias. Un ejemplo de discrepancia es `BA-004`, código que puede referir a obras diferentes en CAT y FIC. No se autorizan fusiones automáticas.
+
+La documentación actual conserva los originales y registra correspondencias candidatas para curaduría posterior. No afirma que todos los metadatos, citas o derechos hayan sido verificados.
+
+## 🔭 Del documento a la pregunta
+
+El repositorio dialoga con las tres lentes del Framework:
+
+| Lente | Pregunta que aporta |
+|---|---|
+| 🔵 **PH · Programador Humanista** | ¿Cómo preservar, conectar y presentar el conocimiento responsablemente? |
+| 🟢 **IT · Investigador Transdisciplinario** | ¿Qué sabemos de una fuente y con qué evidencia lo afirmamos? |
+| 🟠 **AT · Artista Transdisciplinario** | ¿Qué experiencias y representaciones permiten percibir otras relaciones? |
+
+No son tres profesiones rígidas ni tres formularios obligatorios. La interacción entre lentes puede abrir posibilidades nuevas, pero **no constituye automáticamente una emergencia Caleidoscopio**.
+
+**Marco Mundi**, propuesta de marco pedagógico transversal e invocable, podrá orientar futuras experiencias de indagación y aprendizaje. Su desarrollo profundo está diferido y no bloquea el trabajo académico básico.
+
+## 🧬 Una arquitectura que conserva memoria
+
+RIB-EG-IA es un **proyecto preexistente incorporado mediante INTEGRATE**, sin sustituir su historia por la del Framework.
 
 ```mermaid
 flowchart LR
-    F["Framework maestro v5.2"] --> C["Contrato portable"]
-    R["RIB-EG-IA · proyecto preexistente"] --> I["INTEGRATE"]
-    C --> I
-    I --> E["Estado activado + portafolio"]
-    E --> A["Trabajo académico supervisado"]
-    A --> T["Aprendizaje candidato"]
-    T -. "Revisión humana" .-> F
+  A["📚 Patrimonio original"] --> B["🔎 Curaduría y evidencia"]
+  B --> C["🧬 Framework v5.2 · INTEGRATE"]
+  C --> D["🧳 Estado, decisiones y portafolio"]
+  D --> E["🎓 Investigación y uso académico"]
+  E -. "Aprendizaje candidato, revisión humana" .-> C
 ```
 
-- **START:** crea un proyecto nuevo.
-- **INTEGRATE:** incorpora el Framework a un proyecto existente sin colonizar ni sobrescribir su estructura.
-- **AUDIT:** contrasta estado y evidencia de un proyecto existente.
-- **N3 de proyecto / N4 de autonomía declarada:** hipótesis de madurez, **no certificaciones**.
-- **PORTAFOLIO:** memoria situada de evidencias, decisiones, reflexiones e invocaciones.
-- **TSR:** transferencias documentadas y revisables; la equivalencia ampliada aplicación ↔ experto N3/N4 aún requiere ensayo.
+**La integración técnica está completada y respaldada.** El Framework estructura continuidad, perfiles, decisiones y transferencias; el proyecto conserva su identidad académica. La madurez del proyecto está declarada en **N3** y la autonomía en **N4 declarada**, lo cual **no constituye una certificación empírica automática**.
 
-El paquete original G2-R2 permanece como **evidencia histórica**; el archivo `project-package-activado.json` es la instantánea más reciente para la activación mínima. No debe interpretarse la aprobación en GitHub como prueba de despliegue o de importación nativa de esa nueva instantánea.
+### El cuerpo documental del proyecto
 
-## 🧳 En qué fase estamos
+La macroestructura `00–21 + 99` sigue la del Framework maestro. El cartapacio `22_INTEGRATE_FRAMEWORK_V5_2/` es una extensión particular de RIB-EG-IA.
 
-| Hito | Estado |
+| Cartapacios | Qué permiten encontrar |
 |---|---|
-| Conservación del patrimonio y correspondencias | ✅ Integrado, conflictos abiertos |
-| Contratos portables y verificación nativa del candidato | ✅ 8 etapas PASS; Vitest 41/41 |
-| Fusión controlada a GitHub `main` | ✅ Completada y respaldada |
-| Activación mínima y ficha de continuidad | ✅ Registradas |
-| Actualización del cartapacio local | ⏳ Verificar en VS Code |
-| Importación funcional de la instantánea activada | ⏳ Aún no verificada |
-| Aplicaciones bibliográficas y WordPress | 💤 No desplegadas |
-| Diálogo N3/N4 profundo, Marco Mundi, TSR semántica | 📌 Deuda documentada, no bloqueante |
+| [`00_CONTROL_MAESTRO/`](00_CONTROL_MAESTRO/) | Bitácoras, decisiones, gates y continuidad |
+| [`01_FUNDAMENTO_FILOSOFICO/`](01_FUNDAMENTO_FILOSOFICO/) a [`05_COMPETENCIAS_Y_PERFILES/`](05_COMPETENCIAS_Y_PERFILES/) | Fundamentos, arquitectura, métodos, ética y lentes |
+| [`06_PASTILLAS_MODULARES/`](06_PASTILLAS_MODULARES/) a [`12_DISENO_INSTRUCCIONAL_UNIVERSAL/`](12_DISENO_INSTRUCCIONAL_UNIVERSAL/) | Recursos, cursos, IA, procesos técnicos, publicación y accesibilidad |
+| [`13_INVESTIGACION_Y_EVIDENCIA/`](13_INVESTIGACION_Y_EVIDENCIA/) a [`17_INTERNACIONALIZACION_LOCALIZACION/`](17_INTERNACIONALIZACION_LOCALIZACION/) | Bibliografía, evidencia, comunidad, evaluación, datos y contextos |
+| [`18_DOCUMENTACION_ACTIVA/`](18_DOCUMENTACION_ACTIVA/) a [`21_WIKI_DOCUMENTACION_HUMANA/`](21_WIKI_DOCUMENTACION_HUMANA/) | Documentación, implementación, evolución y orientación |
+| [`22_INTEGRATE_FRAMEWORK_V5_2/`](22_INTEGRATE_FRAMEWORK_V5_2/) | Paquetes portables y activación |
+| [`99_ARCHIVO_HISTORICO/`](99_ARCHIVO_HISTORICO/) | Continuidad histórica y versiones anteriores |
 
-**Gate rector:** [ACT-01](00_CONTROL_MAESTRO/04_Primers_Continuidad/GATE_ACT_CIERRE_Framework_V5_2_2026-10-16.md). Su cierre completo exige la sincronización local y las comprobaciones señaladas, no nuevos cuestionarios.
+La estructura guía, pero no obliga a completar cada cartapacio antes de iniciar trabajo significativo.
 
-## 🗺️ Estructura documental
+## 📍 ¿Dónde estamos hoy?
 
-La macroestructura oficial del Framework **00–21 + 99** está presente. `22_INTEGRATE_FRAMEWORK_V5_2/` es una extensión situada de RIB-EG-IA. No se replica automáticamente todo el código ni todos los contenidos del repositorio maestro.
+![Trayectoria documentada del proyecto y desarrollos pendientes](21_WIKI_DOCUMENTACION_HUMANA/Recursos_Visuales/README_RIB_EGIA/estado-proyecto.svg)
 
-| Cartapacio | Función |
+| Dimensión | Estado verificable |
 |---|---|
-| [`00_CONTROL_MAESTRO/`](00_CONTROL_MAESTRO/) | Gobernanza, bitácoras y decisiones |
-| [`01_FUNDAMENTO_FILOSOFICO/`](01_FUNDAMENTO_FILOSOFICO/) | Pensamiento complejo y Estudios Generales |
-| [`02_ARQUITECTURA_CONCEPTUAL/`](02_ARQUITECTURA_CONCEPTUAL/) | Modelos y relaciones |
-| [`03_METODOLOGIA_Y_FLUJO_DE_TRABAJO/`](03_METODOLOGIA_Y_FLUJO_DE_TRABAJO/) | Metodología y ciclos |
-| [`04_GOBERNANZA_ETICA_Y_RIESGOS/`](04_GOBERNANZA_ETICA_Y_RIESGOS/) | Derechos, riesgos y ética |
-| [`05_COMPETENCIAS_Y_PERFILES/`](05_COMPETENCIAS_Y_PERFILES/) | PH, IT y AT |
-| [`06_PASTILLAS_MODULARES/`](06_PASTILLAS_MODULARES/) | Recursos reutilizables |
-| [`07_PLANTILLAS_Y_MODELOS/`](07_PLANTILLAS_Y_MODELOS/) | Plantillas bibliográficas |
-| [`08_CURSOS_PROGRAMAS_Y_TRAYECTORIAS/`](08_CURSOS_PROGRAMAS_Y_TRAYECTORIAS/) | Trayectorias curriculares |
-| [`09_IA_AGENTES_Y_COPILOTOS/`](09_IA_AGENTES_Y_COPILOTOS/) | Uso responsable de IA |
-| [`10_REPOSITORIOS_Y_FLUJO_TECNICO/`](10_REPOSITORIOS_Y_FLUJO_TECNICO/) | GitHub, local, respaldos |
-| [`11_MULTIMODALIDAD_Y_PUBLICACION/`](11_MULTIMODALIDAD_Y_PUBLICACION/) | Publicación proyectada |
-| [`12_DISENO_INSTRUCCIONAL_UNIVERSAL/`](12_DISENO_INSTRUCCIONAL_UNIVERSAL/) | DUA, accesibilidad |
-| [`13_INVESTIGACION_Y_EVIDENCIA/`](13_INVESTIGACION_Y_EVIDENCIA/) | Fuentes y trazabilidad |
-| [`14_COMUNIDAD_TRANSFERENCIA_Y_ESCALAMIENTO/`](14_COMUNIDAD_TRANSFERENCIA_Y_ESCALAMIENTO/) | Colaboración y transferencia |
-| [`15_EVALUACION_CALIDAD_Y_AUDITORIA/`](15_EVALUACION_CALIDAD_Y_AUDITORIA/) | Evaluación y auditoría |
-| [`16_SEGURIDAD_PRIVACIDAD_Y_DATOS/`](16_SEGURIDAD_PRIVACIDAD_Y_DATOS/) | Privacidad y protección |
-| [`17_INTERNACIONALIZACION_LOCALIZACION/`](17_INTERNACIONALIZACION_LOCALIZACION/) | Contextos y adaptación |
-| [`18_DOCUMENTACION_ACTIVA/`](18_DOCUMENTACION_ACTIVA/) | Continuidad documental |
-| [`19_IMPLEMENTACION_Y_DESPLIEGUE/`](19_IMPLEMENTACION_Y_DESPLIEGUE/) | Software y despliegue futuro |
-| [`20_MANTENIMIENTO_Y_EVOLUCION/`](20_MANTENIMIENTO_Y_EVOLUCION/) | Evolución |
-| [`21_WIKI_DOCUMENTACION_HUMANA/`](21_WIKI_DOCUMENTACION_HUMANA/) | Guías de uso |
-| [`22_INTEGRATE_FRAMEWORK_V5_2/`](22_INTEGRATE_FRAMEWORK_V5_2/) | Extensión propia, activación y paquete |
-| [`99_ARCHIVO_HISTORICO/`](99_ARCHIVO_HISTORICO/) | Versiones previas |
+| Preservación bibliográfica original | **Realizada** |
+| Integración documental/técnica en GitHub | **Realizada**, con respaldo histórico |
+| Validación técnica del candidato | **8/8 etapas PASS, Vitest 41/41**, según expediente de integración |
+| Activación mínima Framework v5.2 | **Registrada** |
+| Curaduría bibliográfica académica como operación continua | **Siguiente bloque** |
+| Plataforma interactiva y WordPress | **No desplegadas** |
+| Laboratorio multiaplicación y equivalencia dialógica N3/N4 | **Horizonte de desarrollo e investigación** |
 
-> La estructura es una brújula, no una orden de llenar todos los cartapacios antes de actuar.
+La nueva instantánea de activación tiene estado `active` en el paquete documental. Su importación funcional específica y el cierre de la sincronización local deben verificarse por separado según el [Gate ACT-01](00_CONTROL_MAESTRO/04_Primers_Continuidad/GATE_ACT_CIERRE_Framework_V5_2_2026-10-16.md).
 
-## 🖥️ Trabajo local con VS Code
+### Lo que aspiramos a construir
 
-**Clon nuevo (solo si todavía no existe):**
-
-```bash
-cd ~/Documents
-git clone https://github.com/ricardojuanmorales/repositorio-institucional-eg-ia-1.git
-cd repositorio-institucional-eg-ia-1
-code .
-```
-
-**Clon existente:** abre su carpeta en VS Code y, en la terminal integrada, comprueba `git status --short` y `git remote -v`. Si no hay cambios locales que debas proteger, ejecuta `git pull --ff-only origin main`. No uses `git reset --hard`, `git clean -fd` ni `git push --force` para sincronizar.
-
-El Gate se encuentra en `00_CONTROL_MAESTRO/04_Primers_Continuidad/`. El hecho de que la rama remota esté actualizada **no verifica el estado del cartapacio en una computadora particular**.
-
-## 🎓 Del repositorio al laboratorio vivo
-
-El primer uso previsto es **consulta y curaduría bibliográfica académica supervisada**. Posteriormente podrán surgir aplicaciones de exploración, investigación-creación, trayectorias curriculares y portafolios reflexivos.
-
-- **[AI StoryLab 1](https://github.com/ricardojuanmorales/ai-storylab-1):** referencia de SDD, local-first, seguridad por diseño, recuperación, pruebas y CI/CD.
-- **[Materia Mundi](https://ricardojuanmorales.github.io/materia-mundi-101/):** referencia de portal con acceso a aplicaciones modulares.
-- **Marco Mundi:** propuesta de marco pedagógico transversal, contextualizable e invocable, **sin activación automática** ni rango de cuarto perfil.
+Un entorno académico donde docentes, estudiantes e investigadores puedan consultar colecciones, interpretar relaciones, producir materiales y conservar sus trayectorias de aprendizaje. Las aplicaciones futuras se inspiran en las prácticas de [AI StoryLab 1](https://github.com/ricardojuanmorales/ai-storylab-1) y en el portal [Materia Mundi](https://ricardojuanmorales.github.io/materia-mundi-101/).
 
 ```mermaid
 flowchart TB
-    H["Portal académico futuro · GitHub Pages"] --> B["Exploración bibliográfica"]
-    H --> C["Taller curricular"]
-    H --> D["Investigación y creación"]
-    B --> L["Portafolios locales y privados"]
-    C --> L
-    D --> L
-    L --> V{"Consentimiento y revisión"}
-    V -->|"Transferencia autorizada"| R["Repositorio central RIB-EG-IA"]
-    V -->|"Conservación privada"| L
+  P["🌐 Portal académico futuro"] --> B["📖 Exploración bibliográfica"]
+  P --> C["🎓 Trayectorias curriculares"]
+  P --> D["🎨 Investigación y creación"]
+  B --> L["🔒 Reflexión y portafolio local"]
+  C --> L
+  D --> L
+  L --> H{"Revisión y autorización humana"}
+  H -->|"Transferencia selectiva"| R["📚 Repositorio compartido"]
 ```
 
-*Diagrama conceptual: esas aplicaciones y la sincronización de portafolios no están implementadas todavía.* GitHub Pages no equivale a un servicio de almacenamiento privado o autenticación.
+*Este diagrama expresa una visión, no funcionalidades publicadas.*
 
-## 🛡️ Gobernanza, autoría y memoria
+## 🤝 Rutas para participar
+
+Puedes entrar por una obra, una pregunta de investigación, un problema de clasificación, una actividad de enseñanza o una crítica documentada. No es necesario dominar todo el Framework para comenzar a colaborar de forma responsable.
+
+- **Para comprender el marco rector:** [Framework Genérico v5.2.0](https://github.com/ricardojuanmorales/framework-proyecto-generico-ia-1).
+- **Para revisar la historia del proyecto:** [bitácora de cierre INTEGRATE](00_CONTROL_MAESTRO/00_Bitacoras/Bitacora_Sesion_004_Cierre_INTEGRATE_Framework_V5_2_2026-10-15.md).
+- **Para examinar el estado portable:** [paquete de activación mínima](22_INTEGRATE_FRAMEWORK_V5_2/Activacion_Framework_V5_2/project-package-activado.json).
+- **Para verificar el alcance y las limitaciones:** [Gate ACT-01](00_CONTROL_MAESTRO/04_Primers_Continuidad/GATE_ACT_CIERRE_Framework_V5_2_2026-10-16.md).
+- **Para conservar la memoria editorial:** [README anterior archivado](99_ARCHIVO_HISTORICO/04_Exportaciones/README_RIB_EGIA_Anterior_2026-10-16.md).
+
+## 🌿 Un compromiso de conocimiento responsable
 
 ```text
-Framework → estructura
-IA        → propone y contrasta
-Máquina   → ejecuta y evidencia
-Humano    → comprende, decide, autoriza y responde
+Fuentes y comunidades → preguntas y evidencia
+Framework            → estructura y continuidad
+IA                   → análisis y alternativas
+Máquina              → ejecución y trazabilidad
+Humano               → interpretación, autorización y responsabilidad
 ```
 
-Se preservan los originales, las decisiones y la incertidumbre. La información privada no se publica automáticamente. Las contribuciones al canon Framework exigen revisión independiente.
+**El repositorio preserva memoria, no certifica automáticamente conocimiento.** Una correspondencia provisional no es una identidad bibliográfica confirmada; una aplicación planificada no es un servicio operativo; y un aporte no adquiere autoridad canónica sin contraste y revisión.
 
-**Historial de integración:** [commit de INTEGRATE](https://github.com/ricardojuanmorales/repositorio-institucional-eg-ia-1/commit/7b347d1799c763ded55b187cf493b608a39da540) · [rama de respaldo anterior](https://github.com/ricardojuanmorales/repositorio-institucional-eg-ia-1/tree/backup/pre-integrate-v0.3-20261015) · [registro de release REL-002](00_CONTROL_MAESTRO/03_Releases/REL-002_INTEGRATE_Framework_V5_2_2026-10-15.md).
+---
 
 **Ricardo Juan Morales De Jesús, Ph.D.**  
 Departamento de Ciencias Físicas · Facultad de Estudios Generales · Universidad de Puerto Rico en Río Piedras.
 
-La IA ha asistido en revisión técnica, pruebas, organización y redacción bajo responsabilidad humana. Las referencias, derechos de uso y autorizaciones institucionales requieren sus verificaciones correspondientes.
-
----
-
-*README de orientación para el usuario ilustrado. Revisión editorial del 16 de octubre de 2026. Las figuras Mermaid son mapas explicativos y no sustituyen la arquitectura canónica del Framework.*
+*Portada pública de orientación. Actualización editorial: 16 de octubre de 2026. Ilustraciones SVG originales para este README, de carácter explicativo; no sustituyen documentos canónicos ni representan servicios ya desplegados.*
