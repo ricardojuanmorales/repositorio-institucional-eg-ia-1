@@ -1,0 +1,274 @@
+{
+  "packageType": "framework_project",
+  "packageVersion": "0.1.0",
+  "exportedAt": "2026-10-16T00:42:00-04:00",
+  "project": {
+    "schemaVersion": "0.1.0",
+    "id": "RIB-EGIA-v5-2-G2-CANDIDATO",
+    "name": "Repositorio Institucional de Colecciones Bibliográficas en Educación General e IA (RIB-EG-IA)",
+    "mode": "INTEGRATE",
+    "status": "active",
+    "frameworkVersion": "5.2.0",
+    "createdAt": "2026-10-15T15:33:45Z",
+    "updatedAt": "2026-10-16T00:42:00-04:00",
+    "state": {
+      "problem": "Activar de forma preservacionista e interoperable el acervo bibliográfico de Estudios Generales e IA para consulta y curaduría académica supervisada, sin borrar identidades ni procedencias de CAT/FIC/MAT/CUR.",
+      "context": "Proyecto existente en UPR Río Piedras, Facultad de Estudios Generales; repositorio GitHub integrado técnicamente con Framework v5.2.0 el 2026-10-15. Corpus: 60 CAT, 60 FIC, 60 MAT y 150 asignaciones CUR; permanecen conflictos de identidad y derechos por revisar.",
+      "purpose": "Habilitar el primer bloque de trabajo académico bibliográfico dentro de Framework v5.2, con IT/PH/AT, preservación de fuentes, agencia humana, documentación mínima y transferencia reversible.",
+      "activeProfiles": [
+        "IT",
+        "PH",
+        "AT"
+      ],
+      "latentProfiles": [],
+      "projectLevel": "N3",
+      "autonomyLevel": "N4",
+      "methodsInvoked": [
+        "G1: cotejo documental no destructivo",
+        "G2: validación estática local de esquemas e integridad SHA-256",
+        "G2-R1: verificación semántica de tres lentes y madurez operacional N3",
+        "G2-R2: declaración humana de autonomía N4 con condiciones de evidencia independiente"
+      ],
+      "knowledgeInvoked": [
+        "Patrimonio documental RIB-EGIA; CAT/FIC/MAT/CUR en registros separados",
+        "Modelo Operacional N1–N4 v5: proyecto, productos y autonomía son ejes independientes",
+        "Marco N1–N4: autonomía corresponde al apoyo que requiere el equipo para actuar responsablemente; N4 incorpora gobernanza, recuperación, evolución y transferencia"
+      ],
+      "risks": [
+        "Códigos BA homónimos con obras diferentes; prohibida fusión automática.",
+        "Equivalencias CAT/FIC probabilísticas no son verificaciones de identidad de obra.",
+        "N3 es el nivel del proyecto declarado por autoridad humana; no equivale a certificación automática de madurez ni de evidencias N3 completas.",
+        "Tres perfiles activos PH/IT/AT no prueban automáticamente emergencia Caleidoscopio.",
+        "N4 en autonomía es una declaración humana, no una certificación del funcionamiento autónomo; no autoriza automatización descontrolada, modificaciones remotas ni ejecución sin gate humano.",
+        "El paquete G2-R2 histórico contiene estados previos al GO; no reescribirlo, usar esta nueva instantánea activada.",
+        "La entrevista N3/N4 profunda, Marco Mundi y el roundtrip enriquecido continúan como deuda diferida."
+      ],
+      "gates": [
+        "F0-B: GO condicionado ratificado para custodia",
+        "G1: GO condicionado ratificado para crosswalk",
+        "G4: fusión y publicación NO autorizadas",
+        "G2-R2: humano declara autonomyLevel=N4; autonomía N4 aún no acreditada mediante pruebas de gobernanza, continuidad, recuperación y transferencia.",
+        "G3: validación nativa histórica PASS (8 etapas, Vitest 41/41) en Mac; no prueba la equivalencia dialógica",
+        "G4: GO humano para fusión a main ejecutado 2026-10-15; documentado y respaldado",
+        "ACT-2026-10-16: activación mínima declarada, gate formal verificable; ruta dialógica profunda diferida"
+      ],
+      "nextStep": "Iniciar primer bloque académico supervisado de consulta y curaduría bibliográfica. Escoger caso al iniciar; conservar originales, registrar evidencia y decisión humana, sin publicar automáticamente.",
+      "source": {
+        "description": "Repositorio RIB-EG-IA preexistente y preservado; integración documental/técnica a main aprobada y verificada 2026-10-15, con respaldo histórico disponible.",
+        "repositoryUrl": "https://github.com/ricardojuanmorales/repositorio-institucional-eg-ia-1",
+        "existingArtifacts": [
+          "README.md",
+          "MANIFEST_RIB_EGIA_v0_3.md",
+          "Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+          "Matrices_Repositorio_Institucional_Bibliografía_Anotada-Pensamiento_Transdisciplinario_IA_RJMDJ_V1_1.docx",
+          "Bibliografia_Generalizada_Revisada_Base_Consolidada_5_Unidades.md",
+          "G1_Crosswalk_60_CAT_MAT_FIC.json",
+          "G1_Relaciones_150_CUR_CAT_FIC.json",
+          "git:main@0ef0a53d8644268181593c995470411d32b4fd35",
+          "git:backup/pre-integrate-v0.3-20261015@5cba645d6a462801e40eb09b35108482aca58ed4",
+          "22_INTEGRATE_FRAMEWORK_V5_2/Activacion_Minima_RIB_EGIA_V5_2_2026-10-16.md"
+        ],
+        "preservationRule": "preserve_source"
+      }
+    },
+    "portfolio": [
+      {
+        "id": "G1-CROSSWALK",
+        "type": "artifact",
+        "title": "Correspondencias bibliográficas G1",
+        "summary": "Crosswalk independiente CAT/FIC/MAT 60 entradas y CUR 150; conflictos preservados, no fusionados.",
+        "createdAt": "2026-10-15T15:33:45Z"
+      },
+      {
+        "id": "G2-CANDIDATE",
+        "type": "milestone",
+        "title": "Candidato documental local G2",
+        "summary": "Contrato v5.2 propuesto. No representa una integración ejecutada ni un proyecto importado en la aplicación.",
+        "createdAt": "2026-10-15T15:33:45Z"
+      },
+      {
+        "id": "ACT-MINIMA-20261016",
+        "type": "milestone",
+        "title": "Activación mínima Framework v5.2",
+        "summary": "Ficha de activación mínima y cierre técnico documentados. Primer bloque académico recomendado; profundidad dialógica, Marco Mundi, equivalencia app/experto y TSR en deuda diferida.",
+        "createdAt": "2026-10-16T00:42:00-04:00"
+      }
+    ],
+    "decisions": [
+      {
+        "id": "RIB-ALN-01",
+        "question": "P1: Arquitectura de integración",
+        "decision": "Opción A. Migración integral del proyecto hacia la arquitectura operativa v5.2; origen preservado y transformación en destino aislado",
+        "reason": "Elección confirmada por el usuario; no se consignó motivación individual adicional.",
+        "authority": "human",
+        "reversible": "partial",
+        "createdAt": "2026-10-15T13:22:04Z"
+      },
+      {
+        "id": "RIB-ALN-02",
+        "question": "P2: Autoridad humano/máquina/IA",
+        "decision": "Opción B. La persona autorizada decide; la IA analiza y propone; la máquina ejecuta verificaciones reproducibles",
+        "reason": "Elección confirmada por el usuario; no se consignó motivación individual adicional.",
+        "authority": "human",
+        "reversible": "yes",
+        "createdAt": "2026-10-15T13:22:04Z"
+      },
+      {
+        "id": "RIB-ALN-03",
+        "question": "P3: Transferencia reversible",
+        "decision": "Opción C. Transferencia bidireccional de candidatos con procedencia, límites, evidencia, revisión y reversión documentada",
+        "reason": "Elección confirmada por el usuario; no se consignó motivación individual adicional.",
+        "authority": "human",
+        "reversible": "partial",
+        "createdAt": "2026-10-15T13:22:04Z"
+      },
+      {
+        "id": "RIB-ALN-04",
+        "question": "P4: Arquitectura taxonómica",
+        "decision": "Opción B. Taxonomía federada multieje, vocabulario controlado, extensiones por dominio y correspondencias históricas",
+        "reason": "Elección confirmada por el usuario; no se consignó motivación individual adicional.",
+        "authority": "human",
+        "reversible": "partial",
+        "createdAt": "2026-10-15T13:22:04Z"
+      },
+      {
+        "id": "RIB-ALN-05",
+        "question": "P5: Patrimonio del conocimiento",
+        "decision": "Opción C. Custodia distribuida y transferencia de candidatos, sin canonización ni copia automática de patrimonio",
+        "reason": "Elección confirmada por el usuario; no se consignó motivación individual adicional.",
+        "authority": "human",
+        "reversible": "partial",
+        "createdAt": "2026-10-15T13:22:04Z"
+      },
+      {
+        "id": "RIB-ALN-06",
+        "question": "P6: Madurez y validación",
+        "decision": "Opción C. Fases L, madurez operacional, autonomía y alcance epistemológico diferenciados y sustentados con evidencias",
+        "reason": "Elección confirmada por el usuario; no se consignó motivación individual adicional.",
+        "authority": "human",
+        "reversible": "partial",
+        "createdAt": "2026-10-15T13:22:04Z"
+      },
+      {
+        "id": "RIB-ALN-07",
+        "question": "P7: Entorno de migración",
+        "decision": "Opción B. Staging aislado, origen identificado y aprobación humana antes de fusión",
+        "reason": "Elección confirmada por el usuario; no se consignó motivación individual adicional.",
+        "authority": "human",
+        "reversible": "yes",
+        "createdAt": "2026-10-15T13:22:04Z"
+      },
+      {
+        "id": "RIB-ALN-08",
+        "question": "P8: Contrato portable",
+        "decision": "Opción C. Contrato v5.2 nativo intacto, con extensiones MD/JSON externas y validadas",
+        "reason": "Elección confirmada por el usuario; no se consignó motivación individual adicional.",
+        "authority": "human",
+        "reversible": "yes",
+        "createdAt": "2026-10-15T13:22:04Z"
+      },
+      {
+        "id": "RIB-ALN-09",
+        "question": "P9: Pruebas y rollback",
+        "decision": "Opción C. Pruebas de integridad, roundtrip, significado y restauración; gate humano GO/NO-GO",
+        "reason": "Elección confirmada por el usuario; no se consignó motivación individual adicional.",
+        "authority": "human",
+        "reversible": "yes",
+        "createdAt": "2026-10-15T13:22:04Z"
+      },
+      {
+        "id": "RIB-ALN-10",
+        "question": "P10: Evaluación integral y DIU/DUA",
+        "decision": "Opción C. Evaluación continua y participativa por etapas, con indicadores y evidencia de accesibilidad y diseño universal",
+        "reason": "Elección confirmada por el usuario; no se consignó motivación individual adicional.",
+        "authority": "human",
+        "reversible": "partial",
+        "createdAt": "2026-10-15T13:22:04Z"
+      },
+      {
+        "id": "RIB-ALN-11",
+        "question": "P11: Colaboración y WordPress",
+        "decision": "Opción B. RACI académico-editorial, revisiones por rol y retroalimentación pública trazable",
+        "reason": "Elección confirmada por el usuario; no se consignó motivación individual adicional.",
+        "authority": "human",
+        "reversible": "partial",
+        "createdAt": "2026-10-15T13:22:04Z"
+      },
+      {
+        "id": "RIB-ALN-12",
+        "question": "P12: Transferencia de conocimiento",
+        "decision": "Opción C. Candidaturas de conocimiento con contraste transdisciplinario, evidencia, derechos y aceptación humana",
+        "reason": "Elección confirmada por el usuario; no se consignó motivación individual adicional.",
+        "authority": "human",
+        "reversible": "partial",
+        "createdAt": "2026-10-15T13:22:04Z"
+      },
+      {
+        "id": "RIB-GATE-F0B",
+        "question": "¿Se ratifica F0-B?",
+        "decision": "GO condicionado exclusivamente para custodia, reconciliación y diseño documental; sin GitHub ni migración.",
+        "reason": "Ratificación o autorización explícita del usuario registrada en la conversación; momento de inscripción técnica, no timestamp de la emisión original.",
+        "authority": "human",
+        "reversible": "yes",
+        "createdAt": "2026-10-15T15:33:45Z"
+      },
+      {
+        "id": "RIB-GATE-G1",
+        "question": "¿Se ratifica G1?",
+        "decision": "GO condicionado para correspondencias CAT/FIC/MAT/CUR; sin fusiones automáticas.",
+        "reason": "Ratificación o autorización explícita del usuario registrada en la conversación; momento de inscripción técnica, no timestamp de la emisión original.",
+        "authority": "human",
+        "reversible": "yes",
+        "createdAt": "2026-10-15T15:33:45Z"
+      },
+      {
+        "id": "RIB-GATE-G2",
+        "question": "¿Se autoriza preparar G2?",
+        "decision": "Preparación exclusivamente local de contrato nativo, extensiones, hashes y validaciones estáticas; sin staging, GitHub ni ejecución de INTEGRATE.",
+        "reason": "Ratificación o autorización explícita del usuario registrada en la conversación; momento de inscripción técnica, no timestamp de la emisión original.",
+        "authority": "human",
+        "reversible": "yes",
+        "createdAt": "2026-10-15T15:33:45Z"
+      },
+      {
+        "id": "RIB-G2-LENTES-IT-PH-AT",
+        "question": "¿Qué lentes deben estar activos en el candidato G2?",
+        "decision": "Activar conjuntamente IT, PH y AT, sin perfiles latentes.",
+        "reason": "Solicitud explícita de la persona usuaria; no se añade una motivación que no fue expresada.",
+        "authority": "human",
+        "reversible": "yes",
+        "createdAt": "2026-10-15T15:44:43Z"
+      },
+      {
+        "id": "RIB-G2-NIVEL-PROYECTO-N3",
+        "question": "¿Qué nivel operacional debe declarar el proyecto G2?",
+        "decision": "Nivel del proyecto N3 (Integración avanzada), por determinación humana. La demostración de sus indicadores queda pendiente; no incluye nivel de autonomía.",
+        "reason": "Solicitud explícita de la persona usuaria: N3 avanzado. El modelo N1–N4 distingue niveles del proyecto y de autonomía.",
+        "authority": "human",
+        "reversible": "yes",
+        "createdAt": "2026-10-15T15:44:43Z"
+      },
+      {
+        "id": "RIB-G2-AUTONOMIA-N4",
+        "question": "¿Qué nivel de autonomía se asigna al candidato G2 para el proyecto RIB-EGIA?",
+        "decision": "AutonomyLevel N4 (Ecosistema gobernado) por instrucción humana, manteniendo el nivel del proyecto N3 y los lentes IT, PH y AT. La evidencia y acreditación operativas se evalúan de forma independiente.",
+        "reason": "Instrucción expresa de la persona usuaria: \"Movamos autonomía a N4\". No se infiere una certificación de capacidad ni autorización de ejecución.",
+        "authority": "human",
+        "reversible": "yes",
+        "createdAt": "2026-10-15T15:52:18Z"
+      },
+      {
+        "id": "ACT-MINIMA-EXPEDITA-20261016",
+        "question": "¿Cómo cerrar la activación sin sobrecarga documental?",
+        "decision": "Completar activación mínima y registrar como deuda diferida el proceso estratégico profundo y progresivo.",
+        "reason": "Instrucción expresa del responsable académico. No autoriza publicación, reestructuración destructiva, deduplicación automática ni acreditación N4.",
+        "authority": "human",
+        "reversible": "yes",
+        "createdAt": "2026-10-16T00:42:00-04:00"
+      }
+    ],
+    "transfers": [],
+    "knowledgeInvocations": [],
+    "caleidoscopeEvents": []
+  }
+}
